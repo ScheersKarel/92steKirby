@@ -5,13 +5,13 @@
     </div>
 
     <div id="navbarMobile" class="">
-        <a href="./home.php"> Home</a>
-        <a href="./steentje.php">Steentje</a>
-        <a href="./takken.php"> Takken</a>
-        <a href="./contact.php"> Contact</a>
-        <a href="./info.php"> Info</a>
-        <a href="./wontolla.php"> Wontolla</a>
-        <a href="./inschrijven.php" id="CTA"> Schrijf je in!</a>
+        <a href="home"> Home</a>
+        <a href="steentje">Steentje</a>
+        <a href="takken"> Takken</a>
+        <a href="contact"> Contact</a>
+        <a href="info"> Info</a>
+        <a href="wontolla"> Wontolla</a>
+        <a href="inschrijven" id="CTA"> Schrijf je in!</a>
     </div>
 </div>
 
@@ -21,22 +21,22 @@
     </div>
 
     <div id="navbar" class="">
-        <a href="./home.php"> Home</a>
-        <a href="./steentje.php">Steentje</a>
+        <a href="home"> Home</a>
+        <a href="steentje">Steentje</a>
         <div class="dropdown" id="dropdownButton">
             <a href="#" class="dropbtn">Takken <iconify-icon icon="gridicons:dropdown" style="color: #10587b; " width="20" height="20"></iconify-icon></a>
             <div class="dropdown-content">
-                <a href="">Paloebies</a>
-                <a href="">Wolven</a>
-                <a href="./poemas.php">Poema's</a>
-                <a href="#">JvPv's</a>
-                <a href="#">Kevins</a>
-                <a href="#">Jins</a>
+                <a href="takken/paloebies">Paloebies</a>
+                <a href="takken/wolven">Wolven</a>
+                <a href="takken/poemas">Poema's</a>
+                <a href="takken/jvpvs">JvPv's</a>
+                <a href="takken/kevins">Kevins</a>
+                <a href="takken/jins">Jins</a>
             </div>
         </div>
-        <a href="./contact.php"> Contact</a>
-        <a href="./info.php"> Info</a>
-        <a href="./wontolla.php"> Wontolla</a>
-        <a href="./inschrijven.php" id="CTA"> Schrijf je in!</a>
+        <a href="contact"> Contact</a>
+        <a href="info"> Info</a>
+        <a href="wontolla"> Wontolla</a>
+        <a href="inschrijven" id="CTA"> Schrijf je in!</a>
     </div>
 </div>

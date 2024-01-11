@@ -25,27 +25,8 @@ async function js() {
         .pipe(rename({ suffix: '.min' }))
         .pipe(gulp.dest('./assets/js/'))
 }
-
-//open browser on laragon url
-function openBrowser() {
-    const url = 'http://voetgevoel.test';
-    opn(url).catch((error) => {
-        console.error(error);
-    });
-}
-
 //dev, starts server, watches for changes, reloads browser
 function dev() {
-
-    php.server({}, function () {
-        browserSync({
-            proxy: 'http://localhost:8080/voetGevoel/',
-            port: 8080,
-            notify: false,
-            online: false,
-            open: false,
-        });
-    });
 
     gulp.watch('./theme/**/*.scss').on('change', gulp.series(styles, function () {
         browserSync.reload();
