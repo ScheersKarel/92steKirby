@@ -1,0 +1,96 @@
+.newscards{
+   width: 90%;   
+
+    &__card {
+        margin-top: 20px;
+
+        &__header{
+            display: flex;
+            justify-content: flex-start;
+            align-items: center;
+           
+            &__title{
+                font-size: $fontsizeH2Mobile;
+            }
+
+            &__dateButton{
+                margin-left: 20px;
+               background: transparent;
+               border-radius: 20px;
+               padding: 5px 10px 5px 10px;
+               display: flex;
+               justify-content: space-between;
+               border: 1px solid #053F41;
+            }
+
+            &__takButtonDesc{
+                background: $buttonTakColor;
+                border-radius: 20px;
+                padding: 5px 20px 5px 20px;
+                border: 1px solid $buttonTakColor;
+                color: $buttonTextColor ;
+                margin-left: 2%;
+                display: none;
+            }
+            &__evenementButtonDesc{
+                background: $buttonEvenementColor;
+                border-radius: 20px;
+                padding: 5px 20px 5px 20px;
+                border: 1px solid $buttonEvenementColor;
+                color: $buttonTextColor ;
+                display: none;
+                margin-left: 2%;
+            }
+        }
+
+        &__text{
+            margin-top: -5px;
+        }
+        
+        &__takButton{
+            background: $buttonTakColor;
+            border-radius: 20px;
+            padding: 5px 20px 5px 20px;
+            border: 1px solid $buttonTakColor;
+            color: $buttonTextColor ;
+        }
+
+        &__evenementButton{
+            background: $buttonEvenementColor;
+            border-radius: 20px;
+            padding: 5px 20px 5px 20px;
+            border: 1px solid $buttonEvenementColor;
+            color: $buttonTextColor ;
+            
+            margin-left: 2%;
+        }
+        
+    }
+}
+
+@media screen and (min-width: 1024px) {
+    .newscards{  
+     
+         &__card {
+            margin-top: 50px;
+            &__header{
+                &__takButtonDesc{
+                    display: block;
+                }
+                &__evenementButtonDesc{
+                    display: block;
+                }
+            }      
+           
+             &__takButton{
+                 display: none;
+             }
+     
+             &__evenementButton{
+                 display: none;
+             }
+             
+         }
+     }
+     
+}

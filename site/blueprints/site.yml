@@ -1,5 +1,17 @@
 title: Site
 
 sections:
+ 
   pages:
     type: pages
+    
+
+  NavSection:
+    type: fields
+    fields:
+      navImg:
+        type: files
+        label: Logo
+        layout: cards
+        max: 1
+        info: "{{ file.dimensions }}"

@@ -1,0 +1,28 @@
+@import "00_common/vars.scss";
+
+@import "01_fundaments/inschrijvingenList.scss";
+@import "01_fundaments/lists.scss";
+@import "01_fundaments/fonts.scss";
+@import "01_fundaments/links.scss";
+
+@import "02_atoms/steentje.scss";
+
+@import "03_molecules/nav.scss";
+@import "03_molecules/newscards.scss";
+@import "03_molecules/homeInfo.scss";
+@import "03_molecules/takinfo.scss";
+@import "03_molecules/leiding.scss";
+@import "03_molecules/takNieuws.scss";
+@import "03_molecules/contactCard.scss";
+@import "03_molecules/infoCard.scss";
+@import "03_molecules/wontollaCard.scss";
+
+@import "04_organisms/footer.scss";
+@import "04_organisms/steentjeNav.scss";
+
+@import "05_layouts/homeContainer.scss";
+
+@import "06_pages/content.scss";
+@import "06_pages/body.scss";
+@import "06_pages/container.scss";
+@import "06_pages/takken.scss";

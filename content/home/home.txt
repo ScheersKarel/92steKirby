@@ -1,1 +1,30 @@
 Title: Home
+
+----
+
+Heroimg: - file://AmCj877TlZ2CWPa2
+
+----
+
+Newscard:
+
+- 
+  cardtitle: test kaart
+  carddate: 11/01
+  cardtak: poemas
+  cardevenement: gek evenement
+  cardtext: >
+    Lorem ipsum dolor sit amet consectetur
+    adipisicing elit. Sunt, quod maiores?
+    Voluptate doloremque, nisi sequi omnis
+    quas placeat odio dignissimos ex nobis,
+    quibusdam ad officiis! Magni
+    perspiciatis animi earum voluptate.
+
+----
+
+Abouttitle: 
+
+----
+
+Uuid: vEnnHZ8rvrwE9lE3

@@ -1,0 +1,140 @@
+.navMobile {
+    width: 90%;
+    margin: auto;
+    padding: 10px;
+    overflow: hidden;
+}
+
+.navDesctop {
+    display: none;
+}
+
+.navMobile .header {
+    display: flex;
+    justify-content: space-between;
+    /* Om de elementen te verdelen, de afbeelding zal naar rechts worden geduwd */
+    align-items: center;
+}
+
+.navMobile .hamburger-icon {
+    margin-top: 15px;
+}
+
+.navMobile img {
+    width: 80%;
+}
+
+
+#navbarMobile {
+    transition: transform 0.3s ease-in-out, opacity 0.3s ease-in-out, max-height 1s ease-in-out;
+    transform: translateY(-100%);
+    opacity: 0;
+    max-height: 0;
+    overflow: hidden;
+    pointer-events: none;
+    text-align: center;
+    font-size: 120%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+#navbarMobile.active {
+    transform: translateY(0);
+    opacity: 1;
+    max-height: 500px;
+    /* of de hoogte die je wilt hebben */
+    pointer-events: auto;
+}
+
+#navbarMobile:not(.active) {
+    transition: transform 5s ease-in-out, opacity 5s ease-in-out, max-height 1s ease-in-out;
+    /* Aangepaste overgangsduratie voor deactiveren */
+    max-height: 0;
+    opacity: 0;
+    pointer-events: none;
+}
+
+
+#navbarMobile a {
+    display: block;
+    margin-bottom: 15px;
+    color: $linkColor ;
+    border-bottom: 1px solid transparent;
+    padding: 3px 6px 3px 6px;
+}
+
+#navbarMobile a:hover {
+    text-decoration: underline;
+    transition: 0.3s ease-in-out;
+}
+
+
+
+@media screen and (min-width: 1024px) {
+    .navMobile {
+        display: none;
+    }
+
+    .navDesctop {
+        width: 90%;
+        margin: auto;
+        padding: 10px;
+        overflow: hidden;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+
+
+    .navDesctop img {
+        width: 100%;
+        max-width: 300px;
+        /* Pas dit aan aan je behoeften */
+        position: absolute;
+        z-index: 1000;
+        top: 10px;
+
+    }
+
+
+    #navbar {
+        display: flex;
+        margin-top: 0px;
+        flex-direction: row;
+    }
+
+    #navbar a {
+        margin-top: 20px;
+        margin-bottom: 0;
+        margin-right: 30px;
+    }
+
+    #navbar #CTA {
+        border: 1px solid $buttonBorderColor;
+        border-radius: 5px;
+        padding: 3px 10px 3px 10px;
+        height: 25px;
+    }
+
+    #navbar .dropdown-content a {
+        display: flex;
+        align-items: center;
+
+    }
+
+    #navbar .dropdown-content a:hover {
+        color: $buttonHoverColor;
+        text-decoration: none;
+    }
+
+    #navbar .dropdown-content {
+        animation: fadeIn 1s ease;
+        display: none;
+    }
+
+    #navbar .dropbtn {
+        display: flex;
+        align-items: center;
+    }
+
+}

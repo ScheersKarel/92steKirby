@@ -1,0 +1,40 @@
+title: Home
+
+columns:
+
+#col1
+  page:
+    width: 4/4
+
+    sections:
+
+      home:
+        type: fields
+        fields:
+
+          heroImg:
+            type: files
+            layout: cards
+            label: about image
+            max: 1
+            info: "{{ file.dimensions }}"
+
+          newsCard:
+            label: Niewsbericht kaart 
+            type: structure
+            fields:
+              cardTitle:
+                label: Card Title
+                type: text
+              cardDate:
+                label: Card Date
+                type: text
+              cardTak:
+                label: Card Tak
+                type: text
+              cardEvenement:
+                label: Card Evenement
+                type: text
+              cardText:
+                label: Card Text
+                type: textarea
