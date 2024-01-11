@@ -47,35 +47,57 @@ document.addEventListener('DOMContentLoaded', function () {
     var jvpvButton = document.querySelector('.jvpvButton');
     var kevinButton = document.querySelector('.kevinButton');
 
+    var agendaPage = document.querySelector('.agendaPage');
+    var agendaPageValue = agendaPage.textContent;
+
+    var onsGeriefPage = document.querySelector('.onsGeriefPage');
+    var onsGeriefPageValue = onsGeriefPage.textContent;
+
+    var paloebiesPage = document.querySelector('.paloebiesPage');
+    var paloebiesPageValue = paloebiesPage.textContent;
+
+    var wolvenPage = document.querySelector('.wolvenPage');
+    var wolvenPageValue = wolvenPage.textContent;
+
+    var poemaPage = document.querySelector('.poemaPage');
+    var poemaPageValue = poemaPage.textContent;
+
+    var jvpvPage = document.querySelector('.jvpvPage');
+    var jvpvPageValue = jvpvPage.textContent;
+
+    var kevinPage = document.querySelector('.kevinPage');
+    var kevinPageValue = kevinPage.textContent;
+
+
 
     // Voeg een klikgebeurtenis toe aan de knoppen
     agendaButton.addEventListener('click', function () {
         // alert('agenda button is pressed');
-        scrollToPage(3);
+        scrollToPage(agendaPageValue);
     });
     onsGeriefButton.addEventListener('click', function () {
         // alert('Ons Gerief button is pressed');
-        scrollToPage(4);
+        scrollToPage(onsGeriefPageValue);
     });
     paloebiesButton.addEventListener('click', function () {
         // alert('paloebie button is pressed');
-        scrollToPage(9);
+        scrollToPage(paloebiesPageValue);
     });
     wolvenButton.addEventListener('click', function () {
         // alert('wolven button is pressed');
-        scrollToPage(13);
+        scrollToPage(wolvenPageValue);
     });
     poemaButton.addEventListener('click', function () {
         // alert('pema button is pressed');
-        scrollToPage(15);
+        scrollToPage(poemaPageValue);
     });
     jvpvButton.addEventListener('click', function () {
         // alert('jvpv button is pressed');
-        scrollToPage(20);
+        scrollToPage(jvpvPageValue);
     });
     kevinButton.addEventListener('click', function () {
         //alert('kevins button is pressed');
-        scrollToPage(24);
+        scrollToPage(kevinPageValue);
     });
 
 

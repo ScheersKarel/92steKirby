@@ -1,0 +1,49 @@
+title: Steentje
+
+columns:
+
+#col1
+  page:
+    width: 4/4
+
+    sections:
+
+      Steentje:
+        type: fields
+        fields:
+
+          heroImg:
+            type: files
+            layout: cards
+            label: steentje image
+            max: 1
+            info: "{{ file.dimensions }}"
+
+          agendaPage:
+            label: Agenda Pagina
+            type: number
+
+          onsGeriefPage:
+            label: Ons Gerief Pagina
+            type: number
+
+          PaloebiesPage:
+            label: Paloebies pagina
+            type: number
+
+          wolvenPage:
+            label: Wolven Pagina
+            type: number
+          
+          poemasPage:
+            label: Poema's Pagina
+            type: number
+
+          jvpvsPage:
+            label: JvPv's Pagina
+            type: number
+
+          kevinsPage:
+            label: Kevins Pagina
+            type: number
+            
