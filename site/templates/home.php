@@ -43,11 +43,9 @@
                     </div>
 
                     <div class="info">
-                        <H2 class="info__title">Den 92ste</H2>
+                        <H2 class="info__title"><?= $page->contentTitle() ?></H2>
                         <p class="info__text">
-                            Scouts 92ste scouts Aartselaar - Reet is de enige soutsgroep in de deelgemeente Reet. Elke week zorgen dan ook ongeveer 50 leiders voor boeiende activiteiten voor meer dan 300 leden. <br><br>
-
-                            Onze <a href="">groepsleiding</a> helpt je graag verder met eventuele vragen. Een lijst van onze activiteiten kan je terugvinden in het <a href="">steentje</a>.
+                            <?= $page->contentText() ?>
                         </p>
                     </div>
                 </div>

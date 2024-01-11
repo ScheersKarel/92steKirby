@@ -38,3 +38,13 @@ columns:
               cardText:
                 label: Card Text
                 type: textarea
+
+          contentTitle:
+            label: Content Title
+            type: text
+
+          contentText:
+            label: Content Text
+            type: textarea
+          
+         
