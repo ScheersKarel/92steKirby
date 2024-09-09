@@ -7,13 +7,6 @@ sections:
   NavSection:
     type: fields
     fields:
-      navImg:
-        type: files
-        label: Logo
-        layout: cards
-        max: 1
-        info: "{{ file.dimensions }}"
-
       newsCard:
         label: Niewsbericht kaart
         type: structure
@@ -33,3 +26,10 @@ sections:
           cardText:
             label: Card Text
             type: textarea
+
+      navImg:
+        type: files
+        label: Logo
+        layout: cards
+        max: 1
+        info: "{{ file.dimensions }}"

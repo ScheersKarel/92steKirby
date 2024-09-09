@@ -2,10 +2,6 @@ Title: Site Title
 
 ----
 
-Navimg: - file://zzFlko1glMItSMBF
-
-----
-
 Newscard:
 
 - 
@@ -41,3 +37,11 @@ Newscard:
     Poemas zijn de leden die 11 jaar oud zijn. Deze tak is speciaal omdat de leden hier voor de eerste keer met al hun leeftijdsgenoten samenzitten (in plaats van opgesplitst te zijn in 2 takken). <br><br>
     
     Hier wordt je alvast voorbereid op het echte scoutswerk dat bij de jongverkenners en padvinders aan bod komt. De poemas proeven al eens van het slapen in patrouilletenten, moeilijke constructies sjorren, zelf koken...
+
+----
+
+Navimg: - file://zzFlko1glMItSMBF
+
+----
+
+Bgimg: - file://wJ51VfbQYnZjuUCa

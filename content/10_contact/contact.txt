@@ -1,1 +1,56 @@
+Heroimg: - file://f59DG5qTF9QieEUy
+
+----
+
+Contactcard:
+
+- 
+  cardtitle: De groepsleiding
+  cardtext: 'Groepsleiding: De heren die instaan voor de dagelijkse werking van de scouts. Bij hen kan je voor alles terecht!'
+  cardmail: groepies@92ste.be
+- 
+  cardtitle: Wontolla
+  cardtext: |
+    Wontolla is de oudervereniging van de scouts. Als VZW zijn ze de beheerder van onze terreinen en lokalen.
+    <br><br>
+    Wil je zelf een handje komen helpen in de werking van den 92ste? Contacteer dan onze oudervereniging. Zij staan in voor de organisatie van ons jaarlijkse evenement Scoutsorama en staan in de voor de infrastructuur.
+  cardmail: wontolla@92ste.be
+- 
+  cardtitle: Kafca Administratie
+  cardtext: >
+    De persoon verantwoordelijk voor de
+    ledenadministratie, inschrijvingen, tak
+    indelingen,…
+  cardmail: kafca@92ste.be
+- 
+  cardtitle: Kafca Financiën
+  cardtext: >
+    Heeft u vragen in verband met het
+    inschrijvingsgeld, terug stortingen van
+    waarborgen,… dit is de persoon in
+    kwestie.
+  cardmail: kafcafin@92ste.be
+- 
+  cardtitle: Ons Gerief
+  cardtext: >
+    Vragen over het kentekens, dassen,
+    T-shirts, truien,… hiervoor kan u
+    steeds terecht bij Ons Gerief.
+  cardmail: onsgerief@92ste.be
+- 
+  cardtitle: Materiaalploeg en verhuur
+  cardtext: >
+    Mocht u ooit opzoek zijn naar de huur
+    van een tent, kookmateriaal,
+    gasbekken,… kan u steeds bij de
+    materiaalploeg terecht mits een kleine
+    vergoeding.
+  cardmail: materiaal@92ste.be
+
+----
+
+Bgimg: - file://hW3NOm9gyghdJjGX
+
+----
+
 Uuid: 1kUTSZU62c9lrC1s
