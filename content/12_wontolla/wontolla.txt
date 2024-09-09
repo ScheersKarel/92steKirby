@@ -1,1 +1,79 @@
+Heroimg: - file://HXeXEHJWFgqFjE33
+
+----
+
+Wontollacard:
+
+- 
+  cardtitle: Wat is wontolla?
+  cardtext: |
+    In het Junglebook staat het personage Wontolla gelijk met die van een “buitenstaander” die de rest probeert te waarschuwen.
+    Binnen de 92ste is Wontolla echter een groep van ouders, oud-leiding en sympathisanten die hun favoriete scoutsgroep willen ondersteunen en begeleiden.<br>
+    Dit doet Wontolla door het onderhouden en verbeteren van de lokalen en terreinen die ze bezit
+- 
+  cardtitle: Wie zijn de Wontollaleden?
+  cardtext: |
+    De ouders van leden, leiding en oudleiding. Tijdens de Wontollavergaderingen wordt de groep vertegenwoordigd door de groepsleiders, en indien nodig andere 92ste leiders.
+    Wontolla bestaat uit een raad van bestuur, die zorgt voor een coördinatie naar Scoutsorama toe, maar vooral ook de verschillende planploegen binnen Wontolla overziet. De beheerraad bestaat uit Gino van de Mooter, Katrin Rollenberg, Nicolaas Roeckens, Nicolas De Greef en Karlien Heyman.
+- 
+  cardtitle: Wat doet Wontolla?
+  cardtext: |
+    Wontolla is in de eerste plaats de <b>beheerder van de lokalen en zorgt voor de nodige infrastructuur</b>.
+    <br><br>
+    Door de jaren heen zorgde Wontolla voor <b>nieuwe terreinen</b> en voor de <b>bouw van de lokalen</b>. Regelmatig hoor je getimmer, zaagmachines en dergelijke rond de lokalen in de Predikherenhoevestraat, om ervoor te zorgen dat de infrastructuur op de scouts ook goed onderhouden blijft.
+    <br><br>
+    Verder nemen de Wontollaleden op hun manier deel aan verschillende activiteiten van den 92ste; zoals de leiding van eten voorzien na de marsepeinactie of een feestje organiseren voor leiding en Wontollaleden.
+- 
+  cardtitle: 'Ons meest recente project: “Maggie”'
+  cardtext: >
+    Wontolla heeft het laatste jaar al zijn
+    peilen gericht op de bouw van
+    “Maggie”, een nieuw robuust gebouw
+    welk onderdak biedt aan onze jongste
+    takken. De lokalen worden nog afgewerkt
+    en zodra de mogelijkheid zich biedt,
+    zullen we ook het sanitair vervangen. De
+    houten onderbouw geeft onderdak aan
+    magazijnen en knutsellokalen.
+- 
+  cardtitle: Waar haalt Wontolla het geld?
+  cardtext: >
+    Samen met den 92ste scouts
+    Aartselaar-Reet organiseert Wontolla het
+    jaarlijkse opendeurweekend Scoutsorama.
+    Met de opbrengst hiervan kunnen de vele
+    kosten van het onderhoud van de lokalen
+    gedragen worden.
+- 
+  cardtitle: >
+    Hoe kom je bij Wontolla en wat kan je
+    zoal doen?
+  cardtext: >
+    Bij Wontolla is iedereen welkom, zeker
+    tijdens Scoutsorama is elke helpende
+    hand nuttig. Van technieker, tot
+    keukenploeg, van tappers tot helpende
+    handen in de kraampjes.
+- 
+  cardtitle: >
+    Vragen, opmerkingen, aansluiten bij
+    Wontolla?
+  cardtext: 'Stuur een mailtje naar de voorzitter: <a href="mailto:wontolla@92ste.be" class="wontollaCard__link">wontolla@92ste.be</a>'
+
+----
+
+Bgimg: - file://7un3F7xVTawfcf17
+
+----
+
+Contactcard:
+
+- 
+  cardtitle: null
+  cardtext: ""
+  cardmail: null
+  _id: 2386598e-980a-4019-b312-ebb3769b0e55
+
+----
+
 Uuid: l4yOsgINW3AnbPiU
