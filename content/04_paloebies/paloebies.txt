@@ -9,17 +9,13 @@ Taktitle: Paloebies
 Takactiviteiten:
 
 <p>Groepsdag (om de 2 jaar)</p>
- <p>1ste weekend: 13-15 november</p>
- <p>2de weekend: 8-10 januari</p>
+ <p>1ste weekend: 08-10 november</p>
+ <p>2de weekend: 21-23 maart</p>
   <p>Kamp: 10-17 Juli</p>
 
 ----
 
-Contenttext:
-
-Paloebies zijn de leden die 6 tot 8 jaar oud zijn. Deze tak is speciaal omdat de leden hier voor de eerste keer met al hun leeftijdsgenoten samenzitten (in plaats van opgesplitst te zijn in 2 takken).
-<br><br>
-Hier wordt je alvast voorbereid op het echte scoutswerk dat bij de jongverkenners en padvinders aan bod komt. De poemas proeven al eens van het slapen in patrouilletenten, moeilijke constructies sjorren, zelf koken...
+Contenttext: Het leven van een Kapoen (6-8 jaar) is er één vol spel, fantasie, creativiteit en expressie. Spelenderwijs en ongedwongen ontdekken we samen met hen de wereld. De leiding gaat hierbij uit van het kind zelf, van wat hen boeit en aanspreekt.
 
 ----
 
@@ -40,13 +36,33 @@ Takleiding:
 - 
   cardimg:
     - file://Z3Ox8VV8qxCkEoOR
-  cardname: Nemo
-  cardtotem: Verantwoordelijk Stokstaartje
+  cardname: Ludo
+  cardtotem: ...
 - 
   cardimg:
     - file://Z3Ox8VV8qxCkEoOR
-  cardname: sdfqsd
-  cardtotem: sqdfsqdf
+  cardname: Grom
+  cardtotem: ..
+- 
+  cardimg:
+    - file://Z3Ox8VV8qxCkEoOR
+  cardname: Fronk
+  cardtotem: ""
+- 
+  cardimg:
+    - file://Z3Ox8VV8qxCkEoOR
+  cardname: Wouter
+  cardtotem: ""
+- 
+  cardimg:
+    - file://Z3Ox8VV8qxCkEoOR
+  cardname: Boudin
+  cardtotem: ""
+- 
+  cardimg:
+    - file://Z3Ox8VV8qxCkEoOR
+  cardname: Maya
+  cardtotem: ""
 
 ----
 

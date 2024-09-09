@@ -1,0 +1,28 @@
+Heroimg: - file://xIBSwCFP1WHLhmTl
+
+----
+
+Titlecontent: Inschrijvingen 2023-2024
+
+----
+
+Textcontent:
+
+Beste ouder, Hieronder kan u uw zoon inschrijven voor volgend scoutsjaar 2023-2024 (enkel voor nieuwe leden). <br>
+                Opmerking:
+            <ul>
+                <li class="inschrijvingenList">
+                    Indien uw zoon reeds lid is van onze scouts wordt hij automatisch opnieuw ingeschreven. De herinschrijving wordt bevestigd door het storten van het lidgeld. Hierover volgt info per mail.
+                </li>
+                <li class="inschrijvingenList">
+                    Nieuwe leden: Gelieve onderaan het formulier, bij opmerkingen, te vermelden of er reeds een broer lid is van onze scouts. Ook graag de volledige naam van beide ouders en gsm-nummers vermelden.
+                </li>
+            </ul>
+
+----
+
+Inschrijflink: https://groepsadmin.scoutsengidsenvlaanderen.be/groepsadmin/client/formulier.html#/lidworden?groep=A3692S
+
+----
+
+Uuid: Aen7ULF5IY7SDj7N

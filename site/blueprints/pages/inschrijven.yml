@@ -12,14 +12,17 @@ columns:
           heroImg:
             type: files
             layout: cards
-            label: home image
+            label: Hero image
             max: 1
             info: "{{ file.dimensions }}"
 
-          contentTitle:
-            label: Content Title
+          titleContent:
+            label: Title
             type: text
-
-          contentText:
-            label: Content Text
+          textContent:
+            label: Text
             type: textarea
+
+          inschrijfLink:
+            label: Inschrijf Link
+            type: text

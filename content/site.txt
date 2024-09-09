@@ -5,38 +5,20 @@ Title: Site Title
 Newscard:
 
 - 
-  cardtitle: Voetbaltoernooi 2025
-  carddate: 09/09
-  cardtak: poemas
-  cardevenement: feestje
-  cardtext: >
-    Lorem ipsum dolor sit amet consectetur
-    adipisicing elit. Sunt, quod maiores?
-    Voluptate doloremque, nisi sequi omnis
-    quas placeat odio dignissimos ex nobis,
-    quibusdam ad officiis! Magni
-    perspiciatis animi earum voluptate.
+  cardtitle: Opening 2024-2025
+  carddate: '22 sep '
+  cardtak: Leiding
+  cardevenement: Evenement
+  cardtext: 'Liefste ouders en leden, Het jaarthema dat we daarom dit jaar met de andere scouts en gidsen van Vlaanderen delen is: “Onderweg opgestoken!” Dit jaar trappen we af op de 4de zondag van september. In dit geval <b>zondag 22 september</b>. We verwachten de leden om <b>11u</b> op onze terreinen. Ze kunnen genieten van een bezinnend moment, voorstellingen van de nieuwe en afscheid van de oude leiding en andere podiumkunsten van de leidingsploeg. Hierna kunnen ze hun allereerste vergadering van dit jaar beleven. Ook de ouders zijn van harte welkom op dit openingsmoment om mee te lachen, te babbelen met andere ouders of om bijvoorbeeld vanaf 13u nieuwe leden in te schrijven, attesten te laten afstempelen, uniformen aan te kopen of het verloren gerief van hun zoon terug te vinden. Ook dit jaar zal onze ouder en oudleiding-vereniging Wontolla na de opening iets om te drinken en soep voorzien tegen democratische prijzen. Vergeet zeker geen ecologisch verpakt lunchpakket! Verspreid het woord en tot dan!'
 - 
-  cardtitle: 'test 2 '
-  carddate: 10/10
-  cardtak: wolven
-  cardevenement: wvdsfsdf
-  cardtext: >
-    Lorem ipsum dolor sit amet consectetur
-    adipisicing elit. Sunt, quod maiores?
-    Voluptate doloremque, nisi sequi omnis
-    quas placeat odio dignissimos ex nobis,
-    quibusdam ad officiis! Magni
-    perspiciatis animi earum voluptate.
-- 
-  cardtitle: test 3
-  carddate: 24/12
-  cardtak: jins
-  cardevenement: feestje
+  cardtitle: Pitaverne 2024
+  carddate: 19 mei
+  cardtak: Kevins
+  cardevenement: Evenement
   cardtext: |
-    Poemas zijn de leden die 11 jaar oud zijn. Deze tak is speciaal omdat de leden hier voor de eerste keer met al hun leeftijdsgenoten samenzitten (in plaats van opgesplitst te zijn in 2 takken). <br><br>
-    
-    Hier wordt je alvast voorbereid op het echte scoutswerk dat bij de jongverkenners en padvinders aan bod komt. De poemas proeven al eens van het slapen in patrouilletenten, moeilijke constructies sjorren, zelf koken...
+    Beste ouders, oudleiding, vrienden en sympathisanten Op zondag 19 mei is het weer tijd voor de Pitaverne. Kom deze dag smullen van de lekkerste pita’s en durums van de Rupelstreek ten voordele van de Kevins hun buitenlands kamp in de zomer van 2025. Onze deuren zijn geopend van 12u ’s middags tot 20u ’s avonds. U kunt online bestellen via de link onderaan. Ter plaatse bestellen is ook mogelijk zolang de voorraad strekt. Ons aanbod (voor democratische prijsjes) bestaat nog steeds uit de klassiekers. -De durum en de pita: 8 euro -De pitaschotel: 12,5 euro -Extra portie frietjes: 2,5 euro We hebben goed weer besteld dus we hopen jullie volgend weekend te mogen verwelkomen in onze nederige pitazaak. Waarom? Durum! <a href='https://docs.google.com/forms/d/e/1FAIpQLSc-HTVxcJrSv0WVZ3mo84UICP53xCTDNLivzGS-3PsCKKqpaQ/viewform?usp=sf_link'>https://docs.google.com/forms </a>
+    Vettige groetjes
+    De Kevins
 
 ----
 
