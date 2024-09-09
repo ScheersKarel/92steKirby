@@ -1,0 +1,52 @@
+title: Home
+
+columns:
+  #col1
+  page:
+    width: 4/4
+
+    sections:
+      home:
+        type: fields
+        fields:
+          paloebieImg:
+            type: files
+            layout: cards
+            label: paloebies image
+            max: 1
+            info: "{{ file.dimensions }}"
+
+          wolvenImg:
+            type: files
+            layout: cards
+            label: wolven image
+            max: 1
+            info: "{{ file.dimensions }}"
+
+          poemaImg:
+            type: files
+            layout: cards
+            label: poemas image
+            max: 1
+            info: "{{ file.dimensions }}"
+
+          jvpvImg:
+            type: files
+            layout: cards
+            label: jvpvs image
+            max: 1
+            info: "{{ file.dimensions }}"
+
+          kevinImg:
+            type: files
+            layout: cards
+            label: kevins image
+            max: 1
+            info: "{{ file.dimensions }}"
+
+          jinImg:
+            type: files
+            layout: cards
+            label: jin image
+            max: 1
+            info: "{{ file.dimensions }}"
