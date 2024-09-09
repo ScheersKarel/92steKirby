@@ -1,17 +1,14 @@
 title: Home
 
 columns:
-
-#col1
+  #col1
   page:
     width: 4/4
 
     sections:
-
       home:
         type: fields
         fields:
-
           heroImg:
             type: files
             layout: cards
@@ -20,7 +17,7 @@ columns:
             info: "{{ file.dimensions }}"
 
           newsCard:
-            label: Niewsbericht kaart 
+            label: Niewsbericht kaart
             type: structure
             fields:
               cardTitle:
@@ -46,5 +43,3 @@ columns:
           contentText:
             label: Content Text
             type: textarea
-          
-         

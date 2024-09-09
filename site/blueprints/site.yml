@@ -1,10 +1,8 @@
 title: Site
 
 sections:
- 
   pages:
     type: pages
-    
 
   NavSection:
     type: fields
@@ -15,3 +13,23 @@ sections:
         layout: cards
         max: 1
         info: "{{ file.dimensions }}"
+
+      newsCard:
+        label: Niewsbericht kaart
+        type: structure
+        fields:
+          cardTitle:
+            label: Card Title
+            type: text
+          cardDate:
+            label: Card Date
+            type: text
+          cardTak:
+            label: Card Tak
+            type: text
+          cardEvenement:
+            label: Card Evenement
+            type: text
+          cardText:
+            label: Card Text
+            type: textarea

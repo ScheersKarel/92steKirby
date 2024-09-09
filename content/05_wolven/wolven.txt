@@ -1,0 +1,53 @@
+Heroimg: - file://icIdg9YMxr7zn12i
+
+----
+
+Taktitle: Wolven
+
+----
+
+Takactiviteiten:
+
+<p>Groepsdag (om de 2 jaar)</p>
+                    <p>1ste weekend: 13-15 november</p>
+                    <p>2de weekend: 8-10 januari</p>
+                    <p>Kamp: 10-17 Juli</p>
+
+----
+
+Contenttext:
+
+Poemas zijn de leden die 11 jaar oud zijn. Deze tak is speciaal omdat de leden hier voor de eerste keer met al hun leeftijdsgenoten samenzitten (in plaats van opgesplitst te zijn in 2 takken). <br><br>
+
+Hier wordt je alvast voorbereid op het echte scoutswerk dat bij de jongverkenners en padvinders aan bod komt. De poemas proeven al eens van het slapen in patrouilletenten, moeilijke constructies sjorren, zelf koken...
+
+----
+
+Takmail: wolven@92ste.be
+
+----
+
+Noodcontact: Migi
+
+----
+
+Taktel: 0491733861
+
+----
+
+Takleiding:
+
+- 
+  cardimg:
+    - file://hPncvWngrmItYv6o
+  cardname: "1"
+  cardtotem: "2"
+- 
+  cardimg:
+    - file://hPncvWngrmItYv6o
+  cardname: "2"
+  cardtotem: "3"
+
+----
+
+Uuid: lyqGeihm4cUanIHb

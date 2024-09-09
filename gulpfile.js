@@ -1,48 +1,73 @@
 const gulp = require("gulp");
 const sass = require("gulp-sass")(require("sass"));
 const cssnano = require("gulp-cssnano");
-const browserSync = require("browser-sync");
+const browserSync = require("browser-sync").create();
 const sassGlob = require("gulp-sass-glob");
 const jsmin = require("gulp-jsmin");
 const concat = require("gulp-concat");
 const rename = require("gulp-rename");
-var php = require('gulp-connect-php');
+var php = require("gulp-connect-php");
+const opn = require("opn");
 
-//package to open browser on laragon url
-const opn = require('opn');
-
+// Styles task
 async function styles() {
-    return gulp.src('./theme/main.scss')
-        .pipe(sass().on('error', sass.logError))
-        .pipe(cssnano())
-        .pipe(gulp.dest('./assets/css/'))
+  return gulp
+    .src("./theme/main.scss")
+    .pipe(sass().on("error", sass.logError))
+    .pipe(cssnano())
+    .pipe(gulp.dest("./assets/css/"));
 }
 
+// JS task
 async function js() {
-    gulp.src('./theme/**/*.js')
-        .pipe(concat('main.js'))
-        .pipe(jsmin())
-        .pipe(rename({ suffix: '.min' }))
-        .pipe(gulp.dest('./assets/js/'))
+  return gulp
+    .src("./theme/**/*.js")
+    .pipe(concat("main.js"))
+    .pipe(jsmin())
+    .pipe(rename({ suffix: ".min" }))
+    .pipe(gulp.dest("./assets/js/"));
 }
-//dev, starts server, watches for changes, reloads browser
+
+// Serve PHP server and BrowserSync
+function serve() {
+  php.server({ base: ".", port: 3000, keepalive: true });
+  browserSync.init({
+    proxy: "127.0.0.1:3000",
+    port: 8080,
+    open: true,
+  });
+}
+
+// Open browser on Laragon URL
+function openBrowser() {
+  opn("http://localhost:8080"); // Laragon URL
+}
+
+// Watch task
 function dev() {
+  gulp.watch(
+    "./theme/**/*.scss",
+    gulp.series(styles, function (done) {
+      browserSync.reload();
+      done();
+    })
+  );
 
-    gulp.watch('./theme/**/*.scss').on('change', gulp.series(styles, function () {
-        browserSync.reload();
-    }));
+  gulp.watch(
+    "./theme/**/*.js",
+    gulp.series(js, function (done) {
+      browserSync.reload();
+      done();
+    })
+  );
 
-    gulp.watch('./theme/**/*.js').on('change', gulp.series(js, function () {
-        browserSync.reload();
-    }));
+  gulp.watch("./**/*.php").on("change", function () {
+    browserSync.reload();
+  });
 
-    gulp.watch('./**/*.php').on('change', function () {
-        browserSync.reload();
-    });
-
-    //open browser on laragon url
-    openBrowser();
+  serve(); // Start the server
+  openBrowser();
 }
 
-exports.js = js
-exports.dev = dev
+exports.js = js;
+exports.dev = dev;

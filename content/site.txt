@@ -3,3 +3,41 @@ Title: Site Title
 ----
 
 Navimg: - file://zzFlko1glMItSMBF
+
+----
+
+Newscard:
+
+- 
+  cardtitle: Voetbaltoernooi 2025
+  carddate: 09/09
+  cardtak: poemas
+  cardevenement: feestje
+  cardtext: >
+    Lorem ipsum dolor sit amet consectetur
+    adipisicing elit. Sunt, quod maiores?
+    Voluptate doloremque, nisi sequi omnis
+    quas placeat odio dignissimos ex nobis,
+    quibusdam ad officiis! Magni
+    perspiciatis animi earum voluptate.
+- 
+  cardtitle: 'test 2 '
+  carddate: 10/10
+  cardtak: wolven
+  cardevenement: wvdsfsdf
+  cardtext: >
+    Lorem ipsum dolor sit amet consectetur
+    adipisicing elit. Sunt, quod maiores?
+    Voluptate doloremque, nisi sequi omnis
+    quas placeat odio dignissimos ex nobis,
+    quibusdam ad officiis! Magni
+    perspiciatis animi earum voluptate.
+- 
+  cardtitle: test 3
+  carddate: 24/12
+  cardtak: jins
+  cardevenement: feestje
+  cardtext: |
+    Poemas zijn de leden die 11 jaar oud zijn. Deze tak is speciaal omdat de leden hier voor de eerste keer met al hun leeftijdsgenoten samenzitten (in plaats van opgesplitst te zijn in 2 takken). <br><br>
+    
+    Hier wordt je alvast voorbereid op het echte scoutswerk dat bij de jongverkenners en padvinders aan bod komt. De poemas proeven al eens van het slapen in patrouilletenten, moeilijke constructies sjorren, zelf koken...

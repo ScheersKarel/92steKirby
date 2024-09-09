@@ -1,0 +1,52 @@
+Heroimg: - file://YpgoXB9G2RyCUurh
+
+----
+
+Taktitle: Kevins
+
+----
+
+Takactiviteiten:
+
+<p>Groepsdag (om de 2 jaar)</p>
+                    <p>1ste weekend: 13-15 november</p>
+                    <p>2de weekend: 8-10 januari</p>
+                    <p>Kamp: 10-17 Juli</p>
+
+----
+
+Contenttext:
+
+Kevins(14-16 jaar) hebben veel in hun mars. Maar zoals je zelf misschien al merkte durven ze wel eens een grote mond opzetten. Vaak bedekken ze daarmee hun eigen onzekerheid. Een onzekerheid die ontstaat uit de zoektocht naar zichzelf, een ontdekkingsreis die ze op deze leeftijd volop beleven.
+<br><br>
+Kevins voelen zich op hun best als ze onder vrienden zijn, soms maakt leiding deel van uit van die vriendengroep, op andere momenten zetten ze zich vooral tegen jou af. Af en toe krijg je ze niet uit hun luie zetel, of hebben ze maar weinig zin om veel woorden aan iets vuil te maken...
+<br><br>
+Met een spannende toon in activiteiten daag je Kevins uit om er samen op uit trekken, wek je gemakkelijk hun enthousiasme en geef je hen zo de kans om elkaar op te vangen en hun kwaliteiten te ontplooien.
+<br><br>
+De Kevins delen het lokaal uiterst rechts aan de “Stenen Blok”.
+
+----
+
+Takmail: kevins@92ste.be
+
+----
+
+Noodcontact: djent
+
+----
+
+Taktel: 0491733861
+
+----
+
+Takleiding:
+
+- 
+  cardimg:
+    - file://VFPL0unQuxWcIFZf
+  cardname: djent
+  cardtotem: iets
+
+----
+
+Uuid: eEGxAkOrqF5XRPzg

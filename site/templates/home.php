@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <?= css('assets/css/main.css') ?>
-    <title>Home</title>
+    <title>home</title>
 </head>
 
 <body>
@@ -24,7 +24,7 @@
 
                     <div class="newscards">
                         <h1 class="content__title"> Nieuwsberichten</h1>
-                        <?php foreach ($page->newsCard()->toStructure() as $item) : ?>
+                        <?php foreach ($site->newsCard()->toStructure() as $item) : ?>
                             <div class="newscards__card">
                                 <div class="newscards__card__header">
                                     <h2 class="newscards__card__header__title"><?= $item->cardTitle() ?></h2>
@@ -40,6 +40,8 @@
                             </div>
                         <?php endforeach ?>
 
+                       
+
                     </div>
 
                     <div class="info">
@@ -54,8 +56,8 @@
             </div>
             <?php snippet('footer'); ?>
         </div>
+<?= js('assets/js/main.min.js') ?>
+<script src="https://code.iconify.design/iconify-icon/1.0.7/iconify-icon.min.js"></script>
 </body>
 
 </html>
-<?= js('assets/js/main.min.js') ?>
-<script src="https://code.iconify.design/iconify-icon/1.0.7/iconify-icon.min.js"></script>

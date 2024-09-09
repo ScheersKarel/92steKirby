@@ -20,6 +20,12 @@ Newscard:
     quas placeat odio dignissimos ex nobis,
     quibusdam ad officiis! Magni
     perspiciatis animi earum voluptate.
+- 
+  cardtitle: test 2
+  carddate: 11/02
+  cardtak: wolven
+  cardevenement: evenemetn
+  cardtext: teztsdfsdq
 
 ----
 

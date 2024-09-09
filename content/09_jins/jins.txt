@@ -1,0 +1,55 @@
+Heroimg: - file://s7bzoINpxmvdlrOe
+
+----
+
+Taktitle: Jins
+
+----
+
+Takactiviteiten:
+
+<p>Groepsdag (om de 2 jaar)</p>
+                    <p>1ste weekend: 13-15 november</p>
+                    <p>2de weekend: 8-10 januari</p>
+                    <p>Kamp: 10-17 Juli</p>
+
+----
+
+Contenttext:
+
+Jins zijn zoekers. Met open ogen en een grote gulzigheid staan ze in het leven. Keuzes zijn er bij de vleet: pedagogie of informatica, Leuven of Gent, scouting of basket.
+<br><br>
+Jins proberen hun eigen doelen en verwachtingen te realiseren en genieten dan ook van de vrijheid en de zelfstandigheid die ze in hun jintak krijgen. Het is een veilige plek waar ruimte is voor fouten en waar de mafste ideeën worden gerealiseerd. Door samen aan een project te werken of een kamp ineen te boksen, leren jins niet enkel zichzelf, maar ook elkaar kennen. Ze genieten van uitdagingen waar ze hun zotheid en creativiteit kunnen botvieren, maar staan ook open voor meer intense momenten. Het jinjaar (en de carrière als lid) wordt traditiegetrouw afgesloten met een twee weken durend buitenlands kamp.
+<br><br>
+De Jins hebben hun intrek in het leidingslokaal.
+
+----
+
+Takmail: jins@92ste.be
+
+----
+
+Noodcontact: Nemo
+
+----
+
+Taktel: 0491733861
+
+----
+
+Takleiding:
+
+- 
+  cardimg:
+    - file://kzljWQXOg2EnjW7Z
+  cardname: Nemo
+  cardtotem: a
+- 
+  cardimg:
+    - file://kzljWQXOg2EnjW7Z
+  cardname: Moens
+  cardtotem: b
+
+----
+
+Uuid: HbENE3CW4wOJ9URz

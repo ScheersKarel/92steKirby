@@ -1,0 +1,65 @@
+title: Paloebies
+
+columns:
+  #col1
+  page:
+    width: 4/4
+
+sections:
+  home:
+    type: fields
+    fields:
+      heroImg:
+        type: files
+        layout: cards
+        label: hero image
+        max: 1
+        info: "{{ file.dimensions }}"
+
+      takTitle:
+        width: 1/2
+        label: Tak Title
+        type: text
+
+      TakActiviteiten:
+        width: 1/2
+        label: Tak Activiteiten
+        type: textarea
+
+      contentText:
+        width: 1/2
+        label: Tak Text
+        type: textarea
+
+      takMail:
+        width: 1/2
+        label: Tak Mail
+        type: text
+
+      noodcontact:
+        width: 1/2
+        label: noodcontact
+        type: text
+
+      takTel:
+        width: 1/2
+        label: Tak Tel
+        type: text
+
+      takLeiding:
+        label: leiding
+        type: structure
+        fields:
+          cardImg:
+            label: Card img
+            type: files
+            layout: cards
+            label: home image
+            max: 1
+            info: "{{ file.dimensions }}"
+          cardName:
+            label: Card Name
+            type: text
+          cardTotem:
+            label: Card Totem
+            type: text

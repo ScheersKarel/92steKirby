@@ -1,0 +1,48 @@
+Heroimg: - file://vjHwdXflrVPZ4ed2
+
+----
+
+Taktitle: Poemas
+
+----
+
+Takactiviteiten:
+
+<p>Groepsdag (om de 2 jaar)</p>
+                    <p>1ste weekend: 13-15 november</p>
+                    <p>2de weekend: 8-10 januari</p>
+                    <p>Kamp: 10-17 Juli</p>
+
+----
+
+Contenttext:
+
+Poemas zijn de leden die 11 jaar oud zijn. Deze tak is speciaal omdat de leden hier voor de eerste keer met al hun leeftijdsgenoten samenzitten (in plaats van opgesplitst te zijn in 2 takken). <br><br>
+
+                        Hier wordt je alvast voorbereid op het echte scoutswerk dat bij de jongverkenners en padvinders aan bod komt. De poemas proeven al eens van het slapen in patrouilletenten, moeilijke constructies sjorren, zelf koken...
+
+----
+
+Takmail: poemas@92ste.be
+
+----
+
+Noodcontact: lowieqfsq
+
+----
+
+Taktel: 0491733861
+
+----
+
+Takleiding:
+
+- 
+  cardimg:
+    - file://TM3WtretIXJm7urb
+  cardname: "1."
+  cardtotem: "2"
+
+----
+
+Uuid: rBzAaV3Uu6HiBAAm
