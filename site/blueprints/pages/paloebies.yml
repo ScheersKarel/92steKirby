@@ -54,7 +54,6 @@ sections:
             label: Card img
             type: files
             layout: cards
-            label: home image
             max: 1
             info: "{{ file.dimensions }}"
           cardName:

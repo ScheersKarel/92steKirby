@@ -1,4 +1,4 @@
-Heroimg: - file://ECvH1lZNLezaEZmi
+Heroimg: - file://xpI8rVrKRtlys9d7
 
 ----
 
@@ -35,7 +35,7 @@ Takleiding:
 
 - 
   cardimg:
-    - file://Ai2hL5enp0kq6l4q
+    - file://I49waW0woUAwidLl
   cardname: ???
   cardtotem: ???
 

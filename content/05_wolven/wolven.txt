@@ -39,22 +39,22 @@ Takleiding:
 
 - 
   cardimg:
-    - file://hPncvWngrmItYv6o
+    - file://TZX3pWKEDvEBz70I
   cardname: Berend
   cardtotem: "2"
 - 
   cardimg:
-    - file://hPncvWngrmItYv6o
+    - file://TZX3pWKEDvEBz70I
   cardname: Migi
   cardtotem: "3"
 - 
   cardimg:
-    - file://hPncvWngrmItYv6o
+    - file://TZX3pWKEDvEBz70I
   cardname: Kimpie
   cardtotem: ""
 - 
   cardimg:
-    - file://hPncvWngrmItYv6o
+    - file://TZX3pWKEDvEBz70I
   cardname: Kignet
   cardtotem: ""
 
