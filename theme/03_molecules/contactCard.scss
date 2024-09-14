@@ -1,5 +1,11 @@
-.contactCard{
-    &__link{
-        color:$linkColor;
-    }
+.contactCard {
+  &__link {
+    color: $linkColor;
+  }
+}
+
+@media screen and (min-width: 1024px) {
+  .contactCard {
+    width: 60%;
+  }
 }

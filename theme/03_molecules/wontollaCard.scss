@@ -1,5 +1,11 @@
-.wontollaCard{
-    &__link{
-        color:$linkColor;
-    }
+.wontollaCard {
+  &__link {
+    color: $linkColor;
+  }
+}
+
+@media screen and (min-width: 1024px) {
+  .wontollaCard {
+    width: 60%;
+  }
 }

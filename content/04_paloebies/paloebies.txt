@@ -9,9 +9,9 @@ Taktitle: Paloebies
 Takactiviteiten:
 
 <p>Groepsdag (om de 2 jaar)</p>
- <p>1ste weekend: 08-10 november</p>
- <p>2de weekend: 21-23 maart</p>
-  <p>Kamp: 10-17 Juli</p>
+ <p>1ste weekend: 08 - 10 november</p>
+ <p>2de weekend: 21 - 23 maart</p>
+  <p>Kamp: 03 - 08 Juli</p>
 
 ----
 
@@ -23,11 +23,11 @@ Takmail: paloebies@92ste.be
 
 ----
 
-Noodcontact: Ludo
+Noodcontact: ???
 
 ----
 
-Taktel: +32491733861
+Taktel: 0468485110
 
 ----
 
@@ -35,34 +35,9 @@ Takleiding:
 
 - 
   cardimg:
-    - file://Z3Ox8VV8qxCkEoOR
-  cardname: Ludo
-  cardtotem: ...
-- 
-  cardimg:
-    - file://Z3Ox8VV8qxCkEoOR
-  cardname: Grom
-  cardtotem: ..
-- 
-  cardimg:
-    - file://Z3Ox8VV8qxCkEoOR
-  cardname: Fronk
-  cardtotem: ""
-- 
-  cardimg:
-    - file://Z3Ox8VV8qxCkEoOR
-  cardname: Wouter
-  cardtotem: ""
-- 
-  cardimg:
-    - file://Z3Ox8VV8qxCkEoOR
-  cardname: Boudin
-  cardtotem: ""
-- 
-  cardimg:
-    - file://Z3Ox8VV8qxCkEoOR
-  cardname: Maya
-  cardtotem: ""
+    - file://Ai2hL5enp0kq6l4q
+  cardname: ???
+  cardtotem: ???
 
 ----
 

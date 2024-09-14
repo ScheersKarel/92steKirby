@@ -1,5 +1,11 @@
-.infoCard{
-    &__link{
-        color:$linkColor;
-    }
+.infoCard {
+  &__link {
+    color: $linkColor;
+  }
+}
+
+@media screen and (min-width: 1024px) {
+  .infoCard {
+    width: 60%;
+  }
 }

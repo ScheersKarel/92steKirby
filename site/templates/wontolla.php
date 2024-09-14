@@ -15,7 +15,7 @@
         <div class="content">
                 <img src="<?= $page->heroImg()->toFile()->url() ?>" alt="" class="content__img">
 
-                <div class="content__container" style="background-image: url('<?= $page->bgImg()->toFile()->url() ?>'); background-size: 80%; background-position: calc(100% + 350px) center; background-repeat: no-repeat;">
+                <div class="content__container" style="background-image: url('<?= $page->bgImg()->toFile()->url() ?>'); background-size: 80%; background-position: calc(100% + 480px) center; background-repeat: no-repeat;">
                         <h1>Wontolla</h1>
 
                         <?php foreach ($page->wontollaCard()->toStructure() as $item) : ?>
