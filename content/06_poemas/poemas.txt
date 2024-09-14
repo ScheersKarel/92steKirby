@@ -9,9 +9,9 @@ Taktitle: Poemas
 Takactiviteiten:
 
 <p>Groepsdag (om de 2 jaar)</p>
-                    <p>1ste weekend: 13-15 november</p>
-                    <p>2de weekend: 8-10 januari</p>
-                    <p>Kamp: 10-17 Juli</p>
+                    <p>1ste weekend: 15 - 17 november</p>
+                    <p>2de weekend: 28 - 30 maart</p>
+                    <p>Kamp: 08 - 17 Juli</p>
 
 ----
 
@@ -27,11 +27,11 @@ Takmail: poemas@92ste.be
 
 ----
 
-Noodcontact: lowieqfsq
+Noodcontact: ???
 
 ----
 
-Taktel: 0491733861
+Taktel: 0487180844
 
 ----
 
@@ -39,9 +39,24 @@ Takleiding:
 
 - 
   cardimg:
-    - file://TM3WtretIXJm7urb
-  cardname: "1."
-  cardtotem: "2"
+    - file://ANJNCBJa7DZhlYqZ
+  cardname: ???
+  cardtotem: ???
+- 
+  cardimg:
+    - file://ANJNCBJa7DZhlYqZ
+  cardname: ???
+  cardtotem: ???
+- 
+  cardimg:
+    - file://ANJNCBJa7DZhlYqZ
+  cardname: ???
+  cardtotem: ???
+- 
+  cardimg:
+    - file://ANJNCBJa7DZhlYqZ
+  cardname: ???
+  cardtotem: ???
 
 ----
 

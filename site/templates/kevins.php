@@ -15,8 +15,6 @@
 
     <div class="content">
         <img src="<?= $page->heroImg()->toFile()->url() ?>" alt="" class="content__img">
-        <img src="./resources/images/imgTakken.png" alt="" class="content__img">
-
         <div class="content__container">
             <div class="tak">
                 <div class="tak__takinfo">

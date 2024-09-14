@@ -1,4 +1,4 @@
-Heroimg: - file://xpI8rVrKRtlys9d7
+Heroimg: - file://gFeHAAnfpMFsZbAr
 
 ----
 
@@ -35,7 +35,32 @@ Takleiding:
 
 - 
   cardimg:
-    - file://I49waW0woUAwidLl
+    - file://IjXBMJnIwHPcEusz
+  cardname: ???
+  cardtotem: ???
+- 
+  cardimg:
+    - file://IjXBMJnIwHPcEusz
+  cardname: ???
+  cardtotem: ???
+- 
+  cardimg:
+    - file://IjXBMJnIwHPcEusz
+  cardname: ???
+  cardtotem: ???
+- 
+  cardimg:
+    - file://IjXBMJnIwHPcEusz
+  cardname: ???
+  cardtotem: ???
+- 
+  cardimg:
+    - file://IjXBMJnIwHPcEusz
+  cardname: ???
+  cardtotem: ???
+- 
+  cardimg:
+    - file://IjXBMJnIwHPcEusz
   cardname: ???
   cardtotem: ???
 

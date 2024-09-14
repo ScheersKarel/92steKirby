@@ -9,9 +9,11 @@ Taktitle: Kevins
 Takactiviteiten:
 
 <p>Groepsdag (om de 2 jaar)</p>
-                    <p>1ste weekend: 13-15 november</p>
-                    <p>2de weekend: 8-10 januari</p>
-                    <p>Kamp: 10-17 Juli</p>
+<p>Voetbaltoernooi: 19 oktober</p>
+<p>1ste weekend: 15 - 17 november</p>
+<p>Pitaverne: 18 mei</p>
+                    
+<p>Kamp: </p>
 
 ----
 
@@ -31,11 +33,11 @@ Takmail: kevins@92ste.be
 
 ----
 
-Noodcontact: djent
+Noodcontact: ???
 
 ----
 
-Taktel: 0491733861
+Taktel: 0470337908
 
 ----
 
@@ -43,9 +45,29 @@ Takleiding:
 
 - 
   cardimg:
-    - file://VFPL0unQuxWcIFZf
-  cardname: djent
-  cardtotem: iets
+    - file://pNeOQ5iai8U4shbG
+  cardname: ???
+  cardtotem: ???
+- 
+  cardimg:
+    - file://pNeOQ5iai8U4shbG
+  cardname: ???
+  cardtotem: ???
+- 
+  cardimg:
+    - file://pNeOQ5iai8U4shbG
+  cardname: ???
+  cardtotem: ???
+- 
+  cardimg:
+    - file://pNeOQ5iai8U4shbG
+  cardname: ???
+  cardtotem: ???
+- 
+  cardimg:
+    - file://pNeOQ5iai8U4shbG
+  cardname: ???
+  cardtotem: ???
 
 ----
 

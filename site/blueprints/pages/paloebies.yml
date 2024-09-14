@@ -11,9 +11,9 @@ sections:
     fields:
       heroImg:
         type: files
+        max: 1
         layout: cards
         label: hero image
-        max: 1
         info: "{{ file.dimensions }}"
 
       takTitle:
@@ -53,8 +53,8 @@ sections:
           cardImg:
             label: Card img
             type: files
-            layout: cards
             max: 1
+            layout: cards
             info: "{{ file.dimensions }}"
           cardName:
             label: Card Name

@@ -27,11 +27,11 @@ Takmail: wolven@92ste.be
 
 ----
 
-Noodcontact: Migi
+Noodcontact: ???
 
 ----
 
-Taktel: 0491733861
+Taktel: 0468189278
 
 ----
 
@@ -39,24 +39,39 @@ Takleiding:
 
 - 
   cardimg:
-    - file://TZX3pWKEDvEBz70I
-  cardname: Berend
-  cardtotem: "2"
+    - file://54dy6rcFoJSIGOy2
+  cardname: ???
+  cardtotem: ???
 - 
   cardimg:
-    - file://TZX3pWKEDvEBz70I
-  cardname: Migi
-  cardtotem: "3"
+    - file://54dy6rcFoJSIGOy2
+  cardname: ???
+  cardtotem: ???
 - 
   cardimg:
-    - file://TZX3pWKEDvEBz70I
-  cardname: Kimpie
-  cardtotem: ""
+    - file://54dy6rcFoJSIGOy2
+  cardname: ???
+  cardtotem: ???
 - 
   cardimg:
-    - file://TZX3pWKEDvEBz70I
-  cardname: Kignet
-  cardtotem: ""
+    - file://54dy6rcFoJSIGOy2
+  cardname: ???
+  cardtotem: ???
+- 
+  cardimg:
+    - file://54dy6rcFoJSIGOy2
+  cardname: ???
+  cardtotem: ???
+- 
+  cardimg:
+    - file://54dy6rcFoJSIGOy2
+  cardname: ???
+  cardtotem: ???
+- 
+  cardimg:
+    - file://54dy6rcFoJSIGOy2
+  cardname: ???
+  cardtotem: ???
 
 ----
 

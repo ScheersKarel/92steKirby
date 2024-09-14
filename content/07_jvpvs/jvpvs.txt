@@ -9,17 +9,19 @@ Taktitle: Jvpv's
 Takactiviteiten:
 
 <p>Groepsdag (om de 2 jaar)</p>
-                    <p>1ste weekend: 13-15 november</p>
-                    <p>2de weekend: 8-10 januari</p>
-                    <p>Kamp: 10-17 Juli</p>
+                    <p>1ste weekend: 08 - 10 november</p>
+                    <p>2de weekend: 18 - 20 april</p>
+                    <p>Kamp: </p>
 
 ----
 
 Contenttext:
 
-Poemas zijn de leden die 11 jaar oud zijn. Deze tak is speciaal omdat de leden hier voor de eerste keer met al hun leeftijdsgenoten samenzitten (in plaats van opgesplitst te zijn in 2 takken). <br><br>
-
-                        Hier wordt je alvast voorbereid op het echte scoutswerk dat bij de jongverkenners en padvinders aan bod komt. De poemas proeven al eens van het slapen in patrouilletenten, moeilijke constructies sjorren, zelf koken...
+Sinds 2019 vormen de jongverkenners en de padvinders terug samen een tak, de JvPv
+<br><br>
+Jongverkenners & Padvinders zijn jonge scouts en gidsen van 11 tot 14 jaar. Ze zijn niet bang van een beetje avontuur en om reeds zelf de handen uit de mouwen te steken. Op tocht gaan met een zelf-gesjord vlot, hun eigen potje koken op een houtvuur, slapen in patrouilletenten, zich uitleven tijdens grote bosspelen, op 3-daagse gaan met de rugzak, woudloperskeuken bij het kampvuur, ... Steeds nieuwe uitdagingen, die ze bij deze tak leren en doen. Ze leren samenwerken, verkennen en ondernemen, engagement tonen, samen overleggen en zich voor anderen in te zetten.
+<br><br>
+De JVPV's hebben hun intrek in het grootste lokaal in de ‘Stenen Blok’.
 
 ----
 
@@ -27,11 +29,11 @@ Takmail: jvpvs@92ste.be
 
 ----
 
-Noodcontact: Scrappy
+Noodcontact: ???
 
 ----
 
-Taktel: 0491733861
+Taktel: 0456789123
 
 ----
 
@@ -39,9 +41,29 @@ Takleiding:
 
 - 
   cardimg:
-    - file://MCA07vA7578bHAjh
-  cardname: a
-  cardtotem: a
+    - file://QLAOjR74zRXSdjfh
+  cardname: ???
+  cardtotem: ???
+- 
+  cardimg:
+    - file://QLAOjR74zRXSdjfh
+  cardname: ???
+  cardtotem: ???
+- 
+  cardimg:
+    - file://QLAOjR74zRXSdjfh
+  cardname: ???
+  cardtotem: ???
+- 
+  cardimg:
+    - file://QLAOjR74zRXSdjfh
+  cardname: ???
+  cardtotem: ???
+- 
+  cardimg:
+    - file://QLAOjR74zRXSdjfh
+  cardname: ???
+  cardtotem: ???
 
 ----
 
