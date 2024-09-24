@@ -36,9 +36,6 @@
     </div>
 
 </footer>
-<div class="privacy">
-    <a href="">Cookie policy</a>
-    <a href="">Privacy policy</a>
-</div>
+
 
 </div>
