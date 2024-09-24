@@ -25,7 +25,7 @@
             <?= $page->textContent() ?>
             </p>
 
-            <iframe width="950" height="1200" src="<?= $page->inschrijfLink() ?>" frameborder="0" allowfullscreen></iframe>
+            <iframe src="<?= $page->inschrijfLink() ?>" frameborder="0" allowfullscreen class="inschrijving"></iframe>
 
         </div>
 

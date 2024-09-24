@@ -28,13 +28,15 @@
 
       &__img {
         width: 150px;
-        height: 150px;
+        height: 200px;
       }
       &__name {
         text-align: center;
       }
       &__totem {
         text-align: center;
+        width: 120%;
+        margin-left: -10%;
       }
     }
   }

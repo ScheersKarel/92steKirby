@@ -29,11 +29,11 @@ Takmail: jins@92ste.be
 
 ----
 
-Noodcontact: ???
+Noodcontact: Nemo
 
 ----
 
-Taktel: 0491733861
+Taktel: 0491733859
 
 ----
 
@@ -41,14 +41,14 @@ Takleiding:
 
 - 
   cardimg:
-    - file://04GyC6SylXbavHXn
-  cardname: ???
+    - file://5ewMSPf4KZ1pZFRr
+  cardname: Moens
   cardtotem: ???
 - 
   cardimg:
-    - file://04GyC6SylXbavHXn
-  cardname: ???
-  cardtotem: ???
+    - file://ilNdmmlYCQ2a2pG7
+  cardname: Nemo
+  cardtotem: Verantwoordelijk Stokstaartje
 
 ----
 

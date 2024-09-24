@@ -29,11 +29,11 @@ Takmail: jvpvs@92ste.be
 
 ----
 
-Noodcontact: ???
+Noodcontact: Roef
 
 ----
 
-Taktel: 0456789123
+Taktel: +32470108160
 
 ----
 
@@ -41,29 +41,29 @@ Takleiding:
 
 - 
   cardimg:
-    - file://QLAOjR74zRXSdjfh
-  cardname: ???
-  cardtotem: ???
+    - file://aVOYia3VxcXs57BG
+  cardname: Vg
+  cardtotem: Aangename Wasbeer
+- 
+  cardimg:
+    - file://P4vyrkNflpjgCbrw
+  cardname: Gringe
+  cardtotem: Behoedzaam Stekelvarken
+- 
+  cardimg:
+    - file://T4ITcMIN9k32sVsV
+  cardname: Steen
+  cardtotem: Schalkse Springbok
+- 
+  cardimg:
+    - file://2Ex7bt5xCnzW3RUa
+  cardname: Scrappy
+  cardtotem: Verassende Stern
 - 
   cardimg:
     - file://QLAOjR74zRXSdjfh
-  cardname: ???
-  cardtotem: ???
-- 
-  cardimg:
-    - file://QLAOjR74zRXSdjfh
-  cardname: ???
-  cardtotem: ???
-- 
-  cardimg:
-    - file://QLAOjR74zRXSdjfh
-  cardname: ???
-  cardtotem: ???
-- 
-  cardimg:
-    - file://QLAOjR74zRXSdjfh
-  cardname: ???
-  cardtotem: ???
+  cardname: Roef
+  cardtotem: Oprechte Lijster
 
 ----
 

@@ -27,7 +27,7 @@ Takmail: poemas@92ste.be
 
 ----
 
-Noodcontact: ???
+Noodcontact: Chua
 
 ----
 
@@ -39,24 +39,24 @@ Takleiding:
 
 - 
   cardimg:
-    - file://ANJNCBJa7DZhlYqZ
-  cardname: ???
-  cardtotem: ???
+    - file://O0r8NytSEtwhbq05
+  cardname: ""
+  cardtotem: Aanwezige Chimpansee
 - 
   cardimg:
-    - file://ANJNCBJa7DZhlYqZ
-  cardname: ???
-  cardtotem: ???
+    - file://Y9M0iK842DTeSXU5
+  cardname: Chua
+  cardtotem: Vrijmoedige Wolf
 - 
   cardimg:
-    - file://ANJNCBJa7DZhlYqZ
-  cardname: ???
-  cardtotem: ???
+    - file://CYgKwMGhcTtQl1Py
+  cardname: Bagheera
+  cardtotem: Zachtmoedige Beo
 - 
   cardimg:
-    - file://ANJNCBJa7DZhlYqZ
-  cardname: ???
-  cardtotem: ???
+    - file://ozkSXfpmPKVA3ILB
+  cardname: Ikki
+  cardtotem: Gezellige Panda
 
 ----
 

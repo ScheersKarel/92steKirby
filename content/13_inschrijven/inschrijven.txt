@@ -2,13 +2,13 @@ Heroimg: - file://xIBSwCFP1WHLhmTl
 
 ----
 
-Titlecontent: Inschrijvingen 2023-2024
+Titlecontent: Inschrijvingen 2024-2025
 
 ----
 
 Textcontent:
 
-Beste ouder, Hieronder kan u uw zoon inschrijven voor volgend scoutsjaar 2023-2024 (enkel voor nieuwe leden). <br>
+Beste ouder, Hieronder kan u uw zoon inschrijven voor volgend scoutsjaar 2024-2025 (enkel voor nieuwe leden). <br>
                 Opmerking:
             <ul>
                 <li class="inschrijvingenList">

@@ -23,7 +23,7 @@ Takmail: paloebies@92ste.be
 
 ----
 
-Noodcontact: ???
+Noodcontact: Frank
 
 ----
 
@@ -35,34 +35,34 @@ Takleiding:
 
 - 
   cardimg:
-    - file://IjXBMJnIwHPcEusz
-  cardname: ???
-  cardtotem: ???
+    - file://4tmCyQcQVX7h0pZs
+  cardname: Boudin
+  cardtotem: Curieus Grijs Bokje
 - 
   cardimg:
-    - file://IjXBMJnIwHPcEusz
-  cardname: ???
-  cardtotem: ???
+    - file://el5u21Hb6QGhpL9y
+  cardname: Frank
+  cardtotem: Filosofische Spreeuw
 - 
   cardimg:
-    - file://IjXBMJnIwHPcEusz
-  cardname: ???
-  cardtotem: ???
+    - file://W4S2OnCGrGolmuPP
+  cardname: Maya
+  cardtotem: Joviale Stern
 - 
   cardimg:
-    - file://IjXBMJnIwHPcEusz
-  cardname: ???
-  cardtotem: ???
+    - file://rN7tUwoYGrwUilu6
+  cardname: Penny
+  cardtotem: Ongetemperde Lori
 - 
   cardimg:
-    - file://IjXBMJnIwHPcEusz
-  cardname: ???
-  cardtotem: ???
+    - file://ii3ATAjP0z8JhLvZ
+  cardname: Grom
+  cardtotem: Dappere Herdershond
 - 
   cardimg:
-    - file://IjXBMJnIwHPcEusz
-  cardname: ???
-  cardtotem: ???
+    - file://ulSHZmg2c7vqQdLI
+  cardname: Ludo
+  cardtotem: Excentrieke Sifaka
 
 ----
 

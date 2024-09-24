@@ -33,7 +33,7 @@ Takmail: kevins@92ste.be
 
 ----
 
-Noodcontact: ???
+Noodcontact: Djent
 
 ----
 
@@ -45,28 +45,23 @@ Takleiding:
 
 - 
   cardimg:
-    - file://pNeOQ5iai8U4shbG
-  cardname: ???
-  cardtotem: ???
+    - file://mofAPtzFquzPDzEM
+  cardname: Broem
+  cardtotem: Standvastige Mus
 - 
   cardimg:
-    - file://pNeOQ5iai8U4shbG
-  cardname: ???
-  cardtotem: ???
+    - file://uGTiZIa4RPO4zIGV
+  cardname: Barry
+  cardtotem: Gedreven Eekhoorn
 - 
   cardimg:
-    - file://pNeOQ5iai8U4shbG
-  cardname: ???
-  cardtotem: ???
+    - file://JsNvCQ2qsFTBV6XZ
+  cardname: Djent
+  cardtotem: Expressieve Kapucijnaap
 - 
   cardimg:
-    - file://pNeOQ5iai8U4shbG
-  cardname: ???
-  cardtotem: ???
-- 
-  cardimg:
-    - file://pNeOQ5iai8U4shbG
-  cardname: ???
+    - file://1ucVYmAloPrLcRV4
+  cardname: Mejs
   cardtotem: ???
 
 ----

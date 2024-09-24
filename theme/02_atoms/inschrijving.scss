@@ -1,0 +1,11 @@
+.inschrijving {
+  height: 500px;
+}
+
+@media screen and (min-width: 1024px) {
+  .inschrijving {
+    width: 80%;
+    margin-left: 10%;
+    height: 650px;
+  }
+}

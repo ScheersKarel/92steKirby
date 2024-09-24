@@ -27,7 +27,7 @@ Takmail: wolven@92ste.be
 
 ----
 
-Noodcontact: ???
+Noodcontact: Jacala
 
 ----
 
@@ -39,39 +39,39 @@ Takleiding:
 
 - 
   cardimg:
-    - file://54dy6rcFoJSIGOy2
-  cardname: ???
-  cardtotem: ???
+    - file://iPfJWP6fOCD1UYlq
+  cardname: Chil
+  cardtotem: Trotse Mustang
 - 
   cardimg:
-    - file://54dy6rcFoJSIGOy2
-  cardname: ???
-  cardtotem: ???
+    - file://Gwg1mPVQ474utgL1
+  cardname: Mang
+  cardtotem: Levenslustige Kwikstaart
 - 
   cardimg:
-    - file://54dy6rcFoJSIGOy2
-  cardname: ???
-  cardtotem: ???
+    - file://7EVyCAmgUap1eTlv
+  cardname: Kaa
+  cardtotem: Aangename Kraanvogel
 - 
   cardimg:
-    - file://54dy6rcFoJSIGOy2
-  cardname: ???
-  cardtotem: ???
+    - file://DEXPq3MHIwRvnE5V
+  cardname: Jacala
+  cardtotem: Geëngageerde Moeflon
 - 
   cardimg:
-    - file://54dy6rcFoJSIGOy2
-  cardname: ???
-  cardtotem: ???
+    - file://k1auWJ3JN1CbDEJI
+  cardname: Sahi
+  cardtotem: Trouwe Beo
 - 
   cardimg:
-    - file://54dy6rcFoJSIGOy2
-  cardname: ???
-  cardtotem: ???
+    - file://BHwMxxvP5uSyeso8
+  cardname: Tha
+  cardtotem: Beheerste Bergbever
 - 
   cardimg:
-    - file://54dy6rcFoJSIGOy2
-  cardname: ???
-  cardtotem: ???
+    - file://duGTbZAqw9D84w3g
+  cardname: Akela
+  cardtotem: Speelse Slangenhalsvogel
 
 ----
 
