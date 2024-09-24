@@ -11,23 +11,24 @@
 <body>
     <div class="container">
         <?php snippet('nav'); ?>
-
-    <div class="content">
         <img src="<?= $page->heroImg()->toFile()->url() ?>" alt="" class="content__img">
+    <div class="contentInfo">
+        <div class="contentInfo__text">
 
-        <div class="content__container" style="background-image: url('<?= $page->bgImg()->toFile()->url() ?>'); background-size: 80%; background-position: calc(100% + 480px) center; background-repeat: no-repeat;">
-            <h1>Info</h1>
+            <div class="content__container" >
+                <h1>Info</h1>
 
-            <?php foreach ($page->infoCard()->toStructure() as $item) : ?>
-                <div class="infoCard">
-                    <h2 class="infotCard__title"><?= $item->cardTitle() ?></h2>
-                    <p class="infoCard__text">
-                    <?= $item->cardtext() ?>
-                    </p>
-                </div>
-            <?php endforeach ?>
-
+                <?php foreach ($page->infoCard()->toStructure() as $item) : ?>
+                    <div class="infoCard">
+                        <h2 class="infotCard__title"><?= $item->cardTitle() ?></h2>
+                        <p class="infoCard__text">
+                        <?= $item->cardtext() ?>
+                        </p>
+                    </div>
+                <?php endforeach ?>
+            </div>
         </div>
+        <img src="<?= $page->bgImg()->toFile()->url() ?>" alt="" class="contentInfo__img">
     </div>
 
 
