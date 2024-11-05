@@ -17,4 +17,7 @@ return [
       'types' => ['jpg', 'jpeg', 'png', 'gif', 'webp'], // Toegestane bestandstypes
     ],
   ],
+  'panel' =>[
+    'install' => true
+  ],
 ];
