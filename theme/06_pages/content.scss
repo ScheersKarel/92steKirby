@@ -17,11 +17,6 @@
   }
 }
 
-.contentInfo {
-  &__img {
-    display: none;
-  }
-}
 @media screen and (min-width: 1024px) {
   .content {
     &__img {
@@ -34,14 +29,5 @@
     }
   }
 
-  .contentInfo {
-    display: grid;
-    grid-template-columns: 60% 40%;
-    overflow: hidden;
-    &__img {
-      display: block;
-      width: 200%;
-      margin-top: 30%;
-    }
-  }
+
 }
