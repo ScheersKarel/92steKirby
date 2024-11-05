@@ -39,7 +39,7 @@
                     <a href="mailto:wolven@92ste.be" class="contactCard__link">wolven@92ste.be</a><br>
                     <a href="mailto:poemas@92ste.be" class="contactCard__link">poemas@92ste.be</a><br>
                     <a href="mailto:jvpv@92ste.be" class="contactCard__link">jvpv@92ste.be</a><br>
-                    <a href="mailto:kenners@92ste.be" class="contactCard__link">kenners@92ste.be</a><br>
+                    <a href="mailto:kevins@92ste.be" class="contactCard__link">kevins@92ste.be</a><br>
                     <a href="mailto:jins@92ste.be" class="contactCard__link">jins@92ste.be</a><br>
                 </div>
 
