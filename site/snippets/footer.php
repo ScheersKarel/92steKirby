@@ -13,23 +13,22 @@
     <div class="footer__desc">
         <div class="footer__desc__algemeen">
             <p class="footer__desc__algemeen__span">Algemeen</p>
-            <p><a href="">Steentje</a></p>
-            <p><a href="">Wontolla</a></p>
-            <p><a href="">Ons gerief</a></p>
-            <p><a href="">Inschrijvingen</a></p>
+            <p><a href="steentje">Steentje</a></p>
+            <p><a href="wontolla">Wontolla</a></p>
+            <p><a href="inschrijven">Inschrijvingen</a></p>
         </div>
         <div class="footer__desc__takken">
             <p class="footer__desc__takken__title">Takken</p>
             <div>
 
-                <p><a href="">Paloebies</a></p>
-                <p><a href="">Wolven</a></p>
-                <p><a href="">Poemas</a></p>
+                <p><a href="paloebies">Paloebies</a></p>
+                <p><a href="wolven">Wolven</a></p>
+                <p><a href="poemas">Poemas</a></p>
             </div>
             <div>
-                <p><a href="">JvPv</a></p>
-                <p><a href="">Kevins</a></p>
-                <p><a href="">Jins</a></p>
+                <p><a href="jvpvs">JvPv</a></p>
+                <p><a href="kevins">Kevins</a></p>
+                <p><a href="jins">Jins</a></p>
             </div>
         </div>
 
