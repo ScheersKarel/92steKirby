@@ -36,20 +36,6 @@
     color: white;
 }
 
-.privacy{
-    background-color: black;
-    display: flex;
-    justify-content: space-around;
-    align-items: center;
-    padding-top: 10px;
-    padding-bottom: 10px;
-
-    a{
-        color: gray;
-        font-size: 80%;
-    }
-}
-
 @media screen and (min-width: 1024px) {
     
    .footer{
@@ -67,6 +53,7 @@
             width: 50%;
             display: grid;
             grid-template-columns: repeat(2,1fr);
+            column-gap: 30px;
             &__title{
                 grid-column:span 2;
                 margin-bottom: -20px ;
@@ -74,11 +61,5 @@
         }
 
         }
-        
-       
-    }
-
-    .privacy{
-        justify-content: space-around;
     }
 }
