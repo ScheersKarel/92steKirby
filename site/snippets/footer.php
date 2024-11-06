@@ -1,7 +1,5 @@
 <footer class="footer">
     <div class="footer__mobile">
-        <img class="footer__mobile__img" src="./resources/images/Logo.png" alt="">
-
         <div class="footer__mobile__text">
             <p class="footer__mobile__text__span">Contact</p>
             <a class="footer__mobile__text__link" href="mailto:groepies@92ste.be">groepies@92ste.be </a>

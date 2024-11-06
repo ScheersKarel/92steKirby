@@ -41,7 +41,6 @@
 
             <div class="steentje">
                 <iframe id="iframe" class="scribd_iframe_embed" title="Steentje " src="<?= $page->steentje()?>" tabindex="0" data-auto-height="true" data-aspect-ratio="0.7068965517241379" scrolling="no" width="100%" height="600" frameborder="0"></iframe>
-                <p style="   margin: 12px auto 6px auto;   font-family: Helvetica,Arial,Sans-serif;   font-style: normal;   font-variant: normal;   font-weight: normal;   font-size: 14px;   line-height: normal;   font-size-adjust: none;   font-stretch: normal;   -x-system-font: none;   display: block;"><a title="View 2de-steentje  on Scribd" href="https://www.scribd.com/document/688332614/2de-steentje#from_embed" style="text-decoration: underline;">2de-steentje </a> by <a title="View scouts92ste's profile on Scribd" href="https://www.scribd.com/user/147864658/scouts92ste#from_embed" style="text-decoration: underline;">scouts92ste</a></p>
             </div>
         </div>
 
