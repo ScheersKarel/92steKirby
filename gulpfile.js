@@ -68,6 +68,8 @@ function dev() {
   serve(); // Start the server
   openBrowser();
 }
-
+const build = gulp.series(styles, js);
+exports.build = build;
 exports.js = js;
 exports.dev = dev;
+exports.styles = styles;
