@@ -1,65 +1,113 @@
-.footer{
-    background-color: $bgFooter ;
-    margin-top: 30px;
-    padding-top:15px ;
+.footer {
+  background-color: $bgFooter;
+  margin-top: 30px;
+  padding-top: 15px;
+  display: flex;
+
+  &__mobile {
     display: flex;
+    margin-left: 5%;
+    width: 80%;
+    margin: auto;
 
-    &__mobile{
-        display: flex;
-        margin-left: 5%;
-        width: 80%;
-        margin: auto;
-        
-        &__text{
-            margin-bottom: 20px;
-            color:white;
-            margin-left: 5%;
+    &__text {
+      margin-bottom: 20px;
+      color: white;
+      margin-left: 5%;
 
-            &__span{
-                color: gray;
-                
-            }
-            &__link{
-                color: white;
-            
-            }       
-        }
+      &__span {
+        color: gray;
+
+      }
+
+      &__link {
+        color: white;
+
+      }
     }
 
-    &__desc{
-        display: none;
-    }
+    &__links {
+      display: flex;
+      flex-direction: column;
+      margin-left: auto;
+      justify-content: center;
+      align-items: center;
 
-  
+      &__link {
+        filter: grayscale(1);
+        margin-bottom: 10px;
+        color: white;
+        text-decoration: none;
+        font-size: 20px;
+        transition: all 0.3s ease-in-out;
+      }
+
+      &__link:hover {
+        filter: grayscale(0);
+      }
+    }
+  }
+
+  &__desc {
+    display: none;
+  }
+
+
 }
-.footer a{
-    color: white;
+
+.footer a {
+  color: white;
 }
 
 @media screen and (min-width: 1024px) {
-    
-   .footer{
-    &__mobile{
-        margin-left: 10%;
+
+  .footer {
+    &__mobile {
+      margin-left: 10%;
+
+      &__links {
+        display: none;
+      }
     }
-    &__desc{
+
+    &__desc {
+      width: 50%;
+      margin-right: 10%;
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      color: gray;
+
+      &__takken {
         width: 50%;
-        margin-right: 10%;
         display: grid;
-        grid-template-columns: repeat(2,1fr);
-        color: gray;
+        grid-template-columns: repeat(2, 1fr);
+        column-gap: 30px;
 
-        &__takken{
-            width: 50%;
-            display: grid;
-            grid-template-columns: repeat(2,1fr);
-            column-gap: 30px;
-            &__title{
-                grid-column:span 2;
-                margin-bottom: -20px ;
-            }
+        &__title {
+          grid-column: span 2;
+          margin-bottom: -20px;
+        }
+      }
+
+      &__links {
+        display: flex;
+        flex-direction: column;
+        margin-left: auto;
+        align-items: center;
+
+        &__link {
+          filter: grayscale(1);
+          margin-bottom: 10px;
+          color: white;
+          text-decoration: none;
+          font-size: 20px;
+          transition: all 0.3s ease-in-out;
         }
 
+        &__link:hover {
+          filter: grayscale(0);
         }
+      }
     }
+  }
 }

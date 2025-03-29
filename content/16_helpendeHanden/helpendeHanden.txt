@@ -1,0 +1,41 @@
+Heroimg: - file://aEa4diogtnuZafzG
+
+----
+
+Infocard:
+
+- 
+  cardtitle: Test
+  cardtext: tttteqst
+- 
+  cardtitle: Fiscale aftrekbaarheid
+  cardtext: |
+    Kosten gemaakt voor kinderen onder de 14 jaar voor weekends, kampen en uitstappen zijn fiscaal aftrekbaar.
+    <br><br>
+    
+    Fiscale attesten worden sinds het fiscale jaar 2023 automatisch toegevoegd aan je belastingaangifte. Dat kan echter alleen als we de rijksregisternummers van zowel het lid als van een ouders waar het lid ten laste is. Rijksregisternummers kunnen ingevuld worden op het profiel van het lid in de groepsadministratie van Scouts en Gidsen Vlaanderen (groepsadmin.scoutsengidsenvlaanderen.be).
+- 
+  cardtitle: Mutualiteiten
+  cardtext: >
+    Er zijn verschillende mutualiteiten en
+    de terugbetalingen verschillende per
+    mutualiteit. Via jouw mutualiteit kan je
+    een formulier verkrijgen voor een
+    eenmalige terugbetaling. Dit wordt
+    ondertekend door de groepsleiders en
+    terugbezorgd. Als het kan, neem het dan
+    mee tijdens de opening, dat bespaart ons
+    een hele hoop administratieve rompeslomp
+    doorheen het jaar.
+
+----
+
+Bgimg: - file://7oMHKOtB0L3ePPQ7
+
+----
+
+Contactcard: 
+
+----
+
+Uuid: AWcM4qQ2dAWqs0oX

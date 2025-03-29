@@ -1,18 +1,6 @@
-<!DOCTYPE html>
-<html lang="en">
-
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <?= css('assets/css/main.css') ?>
-    <title>Poemas</title>
-</head>
-
-<body>
+<?php snippet('head', ['title' => 'Poema\'s']); ?>
 <div class="container">
 <?php snippet('nav'); ?>
-
-
     <div class="content">
         <img src="<?= $page->heroImg()->toFile()->url() ?>" alt="" class="content__img">
         <img src="./resources/images/imgTakken.png" alt="" class="content__img">
@@ -23,7 +11,6 @@
                     <h1 class="tak__takinfo__title"><?= $page->takTitle() ?></h1>
                     <p class="tak__takinfo__text">
                     <?= $page->contentText() ?>
-                        
                     </p>
                 </div>
 
@@ -37,10 +24,7 @@
                     <H2 class="tak__takData__subtitle">Noodnummer</H2>
                     <p><?= $page->noodcontact() ?>:<a href="tel: <?= $page->takTel() ?>"> <?= $page->takTel() ?> </a></p>
                 </div>
-
             </div>
-
-
         </div>
     </div>
 
@@ -53,12 +37,10 @@
                     <h3 class="leiding__card__name"><?= $item->cardName() ?></h3>
                     <h4 class="leiding__card__totem"><?= $item->cardTotem() ?></h4>
                 </div>
-                
             <?php endforeach ?>
-
-
         </div>
     </div>
+
     <div class="takNieuws">
         <h2 class="takNieuws__title">Nieuwsberichten</h2>
         <div class="takNieuws__container">
@@ -74,18 +56,13 @@
                     <div class="newscards__card__header__dateButton"><iconify-icon icon="lets-icons:date-today-light" style="color: #053f41;margin-right: 5px;" width="20" height="20"></iconify-icon><?= $item->cardDate() ?></div>
                 </div>
                 <p class="newscards__card__text"><?= $item->cardText() ?></p>
-
             </div>
             <?php endforeach ?>
-            
         </div>
     </div>
-
-
-    
 </div>
+
 <?= js('assets/js/main.min.js') ?>
 <script src="https://code.iconify.design/iconify-icon/1.0.7/iconify-icon.min.js"></script>
 </body>
-
 </html>

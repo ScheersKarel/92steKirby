@@ -1,0 +1,39 @@
+title: Home
+
+columns:
+  #col1
+  page:
+    width: 4/4
+
+    sections:
+      home:
+        type: fields
+        fields:
+          jaar:
+            label: jaar
+            type: text
+
+          heroImg:
+            type: files
+            layout: cards
+            label: Hero image
+            max: 1
+            info: "{{ file.dimensions }}"
+
+          infoCard:
+            label: Info kaart
+            type: structure
+            fields:
+              cardTitle:
+                label: Card Title
+                type: text
+              cardText:
+                label: Card Text
+                type: textarea
+
+          bgImg:
+            type: files
+            layout: cards
+            label: background image
+            max: 1
+            info: "{{ file.dimensions }}"

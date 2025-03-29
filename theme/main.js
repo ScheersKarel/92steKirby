@@ -24,7 +24,11 @@ document.addEventListener("DOMContentLoaded", function () {
     const dropdownButton = document.getElementById('dropdownButton');
     const dropdownContent = document.querySelector('.dropdown-content');
 
+  const dropdownButton1 = document.getElementById('dropdownButton1');
+  const dropdownContent1 = document.querySelector('.dropdown-content1');
+
     let dropdownVisible = false;
+    let dropdownVisible1 = false;
 
     dropdownButton.addEventListener('click', function () {
         dropdownVisible = !dropdownVisible;
@@ -35,6 +39,16 @@ document.addEventListener("DOMContentLoaded", function () {
             dropdownContent.style.display = 'none';
         }
     });
+
+  dropdownButton1.addEventListener('click', function () {
+    dropdownVisible1 = !dropdownVisible1;
+
+    if (dropdownVisible1) {
+      dropdownContent1.style.display = 'block';
+    } else {
+      dropdownContent1.style.display = 'none';
+    }
+  });
 });
 
 document.addEventListener('DOMContentLoaded', function () {
@@ -68,40 +82,28 @@ document.addEventListener('DOMContentLoaded', function () {
     var kevinPage = document.querySelector('.kevinPage');
     var kevinPageValue = kevinPage.textContent;
 
-
-
-    // Voeg een klikgebeurtenis toe aan de knoppen
     agendaButton.addEventListener('click', function () {
-        // alert('agenda button is pressed');
         scrollToPage(agendaPageValue);
     });
     onsGeriefButton.addEventListener('click', function () {
-        // alert('Ons Gerief button is pressed');
         scrollToPage(onsGeriefPageValue);
     });
     paloebiesButton.addEventListener('click', function () {
-        // alert('paloebie button is pressed');
         scrollToPage(paloebiesPageValue);
     });
     wolvenButton.addEventListener('click', function () {
-        // alert('wolven button is pressed');
         scrollToPage(wolvenPageValue);
     });
     poemaButton.addEventListener('click', function () {
-        // alert('pema button is pressed');
         scrollToPage(poemaPageValue);
     });
     jvpvButton.addEventListener('click', function () {
-        // alert('jvpv button is pressed');
         scrollToPage(jvpvPageValue);
     });
     kevinButton.addEventListener('click', function () {
-        //alert('kevins button is pressed');
         scrollToPage(kevinPageValue);
     });
 
-
-    // Functie om naar een specifieke pagina te springen
     function scrollToPage(page) {
         document.querySelector('iframe').src = document.querySelector('iframe').src.replace(/page=.*&/, 'page=' + page + '&');
         console.log(document.querySelector('iframe').src);

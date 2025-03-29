@@ -1,17 +1,7 @@
-<!DOCTYPE html>
-<html lang="en">
+<?php snippet('head', ['title' => 'Wolven']); ?>
 
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <?= css('assets/css/main.css') ?>
-    <title>Wolven</title>
-</head>
-
-<body>
 <div class="container">
 <?php snippet('nav'); ?>
-
 
     <div class="content">
         <img src="<?= $page->heroImg()->toFile()->url() ?>" alt="" class="content__img">
@@ -37,10 +27,7 @@
                     <H2 class="tak__takData__subtitle">Noodnummer</H2>
                     <p><?= $page->noodcontact() ?>:<a href="tel: <?= $page->takTel() ?>"> <?= $page->takTel() ?> </a></p>
                 </div>
-
             </div>
-
-
         </div>
     </div>
 
@@ -53,12 +40,10 @@
                     <h3 class="leiding__card__name"><?= $item->cardName() ?></h3>
                     <h4 class="leiding__card__totem"><?= $item->cardTotem() ?></h4>
                 </div>
-                
             <?php endforeach ?>
-
-
         </div>
     </div>
+
     <div class="takNieuws">
         <h2 class="takNieuws__title">Nieuwsberichten</h2>
         <div class="takNieuws__container">
@@ -77,12 +62,8 @@
 
             </div>
             <?php endforeach ?>
-            
         </div>
     </div>
-
-
-    
 </div>
 <?= js('assets/js/main.min.js') ?>
 <script src="https://code.iconify.design/iconify-icon/1.0.7/iconify-icon.min.js"></script>
