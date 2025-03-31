@@ -8,7 +8,7 @@
     </div>
 
     <div class="footer__mobile__links">
-      <a class="footer__mobile__links__link" href="" target="_blank"><img src="../../assets/img/flickr-icon.png"
+      <a class="footer__mobile__links__link" href="https://www.flickr.com/photos/scouts92ste/" target="_blank"><img src="../../assets/img/flickr-icon.png"
                                                                           style="width: 80px;" alt=""></a>
       <a class="footer__mobile__links__link" href="https://www.instagram.com/scouts92ste/" target="_blank"><img
           src="../../assets/img/Instagram_icon.png" style="width: 40px;" alt=""></a>
@@ -39,7 +39,7 @@
     <div class="footer__desc__links">
 
       <p class="footer__desc__links__title">Links</p>
-      <a class="footer__desc__links__link" href="" target="_blank"><img src="../../assets/img/flickr-icon.png"
+      <a class="footer__desc__links__link" href="https://www.flickr.com/photos/scouts92ste/" target="_blank"><img src="../../assets/img/flickr-icon.png"
                                                                         style="width: 80px;" alt=""></a>
       <a class="footer__desc__links__link" href="https://www.instagram.com/scouts92ste/" target="_blank"><img
           src="../../assets/img/Instagram_icon.png" style="width: 40px;" alt=""></a>

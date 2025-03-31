@@ -5,28 +5,91 @@ Heroimg: - file://aEa4diogtnuZafzG
 Infocard:
 
 - 
-  cardtitle: Test
-  cardtext: tttteqst
-- 
-  cardtitle: Fiscale aftrekbaarheid
+  cardtitle: Donderdagavond – Afterwork Vibes
   cardtext: |
-    Kosten gemaakt voor kinderen onder de 14 jaar voor weekends, kampen en uitstappen zijn fiscaal aftrekbaar.
+    Laat de deadlines voor wat ze zijn en zak af naar onze gezellige feestzone.
+    Dans de stress van je af, klink met collega’s of relax met een drankje aan het vuur.
+    Of je nu komt voor de beats, de babbels of de bar — Afterwork Vibes heeft het allemaal.
+    Dé perfecte start van een zalig Scoutsorama-weekend!
+- 
+  cardtitle: Vrijdag – CLUB92
+  cardtext: |
+    <b>Dé fuif van het jaar? Dat is zonder twijfel… CLUB92!</b>
+    <br><br>
+    Op vrijdag 2 mei barst de tent uit z’n voegen met de vetste beats, de strafste sfeer en jongeren van overal.
+    Dans, feest, flirt of chill wat aan het kampvuur — alles kan op CLUB92.
+    Wie erbij was, weet het: dit wil je niet missen.
+    <br><br>
+    🎧 DJ’s all night long<br>
+    🔥 Chillhoek met kampvuur<br>
+    🍻 Bar met zachte en straffe drankjes<br>
+    🦻 Gratis oordopjes beschikbaar
+- 
+  cardtitle: 'Zaterdag – Vlaamse Kermis & Zangavond'
+  cardtext: |
+    Zaterdag = spelplezier op onze Vlaamse kermis én ’s avonds meezingen op de legendarische <b>Zangavond</b>!
+    <br><br>
+    Om 13.30 uur openen we Scoutsorama officieel met een glaasje bubbels en een feestelijke start.
+    Vanaf dan barst de kermis los: kraampjes, springkastelen, spelletjes en natuurlijk… onze iconische klimmuur “den toren”!
+    Zorg dat je op tijd een ticketje bemachtigt, zo kan je tijdens het wachten nog zorgeloos verder ravotten.
+    <br><br>
+    Voor jong en oud zijn er doorlopend drankjes en hapjes beschikbaar.
+    De kraampjes sluiten om 17u, maar onze bar blijft wat langer open.
+    <br><br>
+    🎤 Om 20u is het tijd voor de ZANGAVOND!
+    Zing samen met honderden anderen uit volle borst mee met scouts-classics en pophits.
+    Begeleid door live-band en een bonte bende leiding die elke noot mee de lucht in knalt.
+    Een vaste waarde van Scoutsorama en elk jaar een voltreffer, voor jong én iets minder jong!
+- 
+  cardtitle: 'Zondag – Familieplezier & Afsluiter in Stijl'
+  cardtext: |
+    Ook op zondag beleef je volop plezier op onze Vlaamse kermis.
+    Ook “den toren” is weer te beklimmen — zorg dat je een ticketje scoort om wachttijden te vermijden!
+    
+    De (groot)ouders genieten van een frisse pint of pannenkoek, terwijl onze takken het terrein omtoveren tot een creatieve speeltuin.
+    Ontdek het talent van den 92ste via het <b>takaanbod</b>:
+    <br>
+    <br>
+    
+    🎪 Wat staat er allemaal op het programma?
     <br><br>
     
-    Fiscale attesten worden sinds het fiscale jaar 2023 automatisch toegevoegd aan je belastingaangifte. Dat kan echter alleen als we de rijksregisternummers van zowel het lid als van een ouders waar het lid ten laste is. Rijksregisternummers kunnen ingevuld worden op het profiel van het lid in de groepsadministratie van Scouts en Gidsen Vlaanderen (groepsadmin.scoutsengidsenvlaanderen.be).
-- 
-  cardtitle: Mutualiteiten
-  cardtext: >
-    Er zijn verschillende mutualiteiten en
-    de terugbetalingen verschillende per
-    mutualiteit. Via jouw mutualiteit kan je
-    een formulier verkrijgen voor een
-    eenmalige terugbetaling. Dit wordt
-    ondertekend door de groepsleiders en
-    terugbezorgd. Als het kan, neem het dan
-    mee tijdens de opening, dat bespaart ons
-    een hele hoop administratieve rompeslomp
-    doorheen het jaar.
+    
+    🎭 Paloebies – Theater tijdens de Kermis
+    Onze Paloebies brengen een onvergetelijk toneelstuk vol humor, spanning en verrassende wendingen. Of je nu komt voor een lach, een traan of gewoon voor de gezelligheid — dit optreden móét je gezien hebben!
+    <br>
+    “Shakespeare is er niks tegen!” – Joris, 31
+    “Staande ovatie meer dan verdiend.” – Emma, 27
+    <br><br>
+    
+    🎬 Wolven – Scoutsfilm Première
+    Zet je schrap voor de meest epische film van het jaar, gemaakt door onze jonge filmmakers. Een combinatie van actie, emotie en scoutsplezier op groot scherm.
+    <br>
+    📍 Locatie: Poema-lokaal
+    <br>
+    🎞️ Herkansing: Zondag om 14u
+    <br><br>
+    
+    👣 Poema’s – Blotevoetenpad
+    Schoenen uit en gaan! Voel gras, modder en dennenappels onder je voeten op het uitdagende en avontuurlijke blotevoetenpad van onze Poema’s. Plezier verzekerd, vuil worden verplicht!
+    <br><br>
+    
+    💦 JVPV’s – Waterglijbaan
+    De zon schijnt volop, en dat vraagt om verkoeling! Gelukkig bouwen de JVPV’s een spectaculaire waterglijbaan. Neem je zwemgerief mee en glijd mee in volle vaart richting verfrissing!
+    <br><br>
+    
+    ⚽ Kevins – Pannaveld
+    Wie wordt dé panna-legende van Scoutsorama? Op het pannaveld van de Kevins kan je het uitvechten in snelle, pittige matchen. Techniek, snelheid en een portie lef – klaar om te scoren?
+    <br><br>
+    
+    🍗 Eten & Drinken
+    Zondag is ook smuldag! Kies tussen een halve kip, kippenbil, vol-au-vent of een heerlijk vegetarisch stoofpotje. Alles geserveerd met verse frietjes, een uitgebreide saladbar en een ijsje als dessert.
+    <br><br>
+    
+    🗡️ Afsluiter: De Zwaardendans
+    We sluiten het weekend af met een magisch moment: de zwaardendans. Een krachtig ritueel, een traditie vol trots — en een kippenvelmoment om Scoutsorama stijlvol te eindigen.
+    <br><br>
+    <b>💛 Scoutsorama 2025. We zijn er klaar voor. Jij ook?</b>
 
 ----
 

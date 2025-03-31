@@ -1,32 +1,36 @@
-Heroimg: - file://aEa4diogtnuZafzG
+Heroimg: - file://i2AS1breR3epQtTZ
 
 ----
 
 Infocard:
 
 - 
-  cardtitle: Test
-  cardtext: tttteqst
-- 
-  cardtitle: Fiscale aftrekbaarheid
+  cardtitle: ""
   cardtext: |
-    Kosten gemaakt voor kinderen onder de 14 jaar voor weekends, kampen en uitstappen zijn fiscaal aftrekbaar.
+    We gaan ervoor! Een supereditie van ons opendeurweekend: Scoutsorama 2025.
     <br><br>
-    
-    Fiscale attesten worden sinds het fiscale jaar 2023 automatisch toegevoegd aan je belastingaangifte. Dat kan echter alleen als we de rijksregisternummers van zowel het lid als van een ouders waar het lid ten laste is. Rijksregisternummers kunnen ingevuld worden op het profiel van het lid in de groepsadministratie van Scouts en Gidsen Vlaanderen (groepsadmin.scoutsengidsenvlaanderen.be).
+    Dit kunnen we echter niet alleen. We hebben een zeer druk gevuld programma, en bij een zeer druk gevuld programma hoort ook een zeer uitgebreide takenlijst. Daarom zoeken we zoals elk jaar nog zeer veel helpende handen.
 - 
-  cardtitle: Mutualiteiten
-  cardtext: >
-    Er zijn verschillende mutualiteiten en
-    de terugbetalingen verschillende per
-    mutualiteit. Via jouw mutualiteit kan je
-    een formulier verkrijgen voor een
-    eenmalige terugbetaling. Dit wordt
-    ondertekend door de groepsleiders en
-    terugbezorgd. Als het kan, neem het dan
-    mee tijdens de opening, dat bespaart ons
-    een hele hoop administratieve rompeslomp
-    doorheen het jaar.
+  cardtitle: Wanneer hebben we helpende handen nodig?
+  cardtext: |
+    Op <b> zaterdag 26 april  </b> komt de tent, dus kan er vanaf ’s morgens meegewerkt worden (hier mogen ook JV/PV en kenners/vinders gerust mee de handen uit de mouwen steken). Hiervoor hoef je je komst niet aan te kondigen.
+    <br><br>
+    Op <b>woensdag 30 april en donderdag 1 mei</b> kan overdag altijd een helpende hand van pas komen.
+    <br><br>
+    Op <b>vrijdagavond 2 mei</b> is er de fuif en zoeken we medewerkers om samen met ons de boel te begeleiden, vooral: om alles in goede banen te leiden op deze avond, zoeken we nog vrijwilligers die mee een oogje in het zeil willen houden. Concreet zoeken we extra vrijwilligers die mee willen helpen met de security op de fuif. Indien u dit ziet zitten, aarzel dan niet om ons te contacteren.
+    <br><br>
+    Op <b>zaterdag 3 mei</b> zoeken we mensen om alles klaar te maken voor weer een dag van puur plezier.  De voorbereiding voor de zangavond, dit jaar op zaterdag, tappen, frieten bakken, kassa’s, tent klaarzetten ….. alle helpers zijn welkom.
+    <br><br>
+    Ook op <b>zondagochtend 4 mei</b> zoekt ons keukenteam enthousiaste mensen om mee groentjes te kuisen en te bereiden in een toffe sfeer en zoeken we mensen die mee de tent willen omtoveren in een gezellige omkadering voor ons kippenfestijn, dat dit jaar op zondag door gaat.
+    <br><br>
+    Maandag <b>5 mei</b> moet dan weer alles afgebroken en opgeruimd worden en ook daar kunnen we helpers gebruiken.
+- 
+  cardtitle: ""
+  cardtext: |
+    En natuurlijk, als het volk er is, is het noodzakelijk om togen, kassa’s en de frituur te bemannen zowel op vrijdag en zaterdag als op zondag.
+    <br><br>
+    U merkt het voor ieder wat wils. Dus twijfel niet, neem contact op via takenlijst.wontolla@gmail.com!
+    Alvast bedankt!!
 
 ----
 

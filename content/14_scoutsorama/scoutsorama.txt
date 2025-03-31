@@ -9,28 +9,28 @@ Heroimg: - file://aEa4diogtnuZafzG
 Infocard:
 
 - 
-  cardtitle: Scouts orama
-  cardtext: "2025"
-- 
-  cardtitle: Fiscale aftrekbaarheid
+  cardtitle: Ons groot jaarlijks evenement
   cardtext: |
-    Kosten gemaakt voor kinderen onder de 14 jaar voor weekends, kampen en uitstappen zijn fiscaal aftrekbaar.
+    Een driedaagse vol feestgedruis, vlaggen en wimpels, feesten en genieten. Een heerlijke party, een geweldige zangavond en als afsluiter een fantastisch kippenfestijn. Dit weekend zetten we de 92ste in de schijnwerpers! <br> <br>
+    
+    We starten op <b>donderdagavond</b> met onze primeur de 'afterwork', <b>vrijdagavond</b> vervolgen we met  <b>“Club92“</b>.  Een afwisselende line-up van lokaal talent én grote namen.  Feesten dus tot in de vroege uurtjes!
+    <br> <br>
+    
+    Op zaterdag is groot en klein welkom om 13.30u voort- een feestelijke opening voorzien van een glaasje cava of fruitsap . De leidingsploeg zorgt voor een leuke sketch en Wontolla doet een officieel woordje. En daarna …? Daarna is het feest voor onze 240 enthousiaste leden, leiders, ouders, grootouders, tantes en nonkels, oud-leiders en sympathisanten.
+    <br> <br>
+    
+    Onze zaterdagavond sluiten we zoals vorig jaar spectaculair af met een zangavond. Sketches en zang onder leiding van een heuse live-muziekband. Een echte aanrader, vraag het maar aan de honderden scouts, gidsen, Chiro en ouders die de voorbije jaren de longen uit hun lijf zongen.
+    <br> <br>
+    
+    Op zondag doen we alles nog een keertje over. Vlaamse kermis, pannenkoeken, frieten, zon en gezelligheid. Wie overdag langskomt, zal creativiteit opmerken bij alle takken. Elke tak geeft het beste van zichzelf in zijn takaanbod.
     <br><br>
     
-    Fiscale attesten worden sinds het fiscale jaar 2023 automatisch toegevoegd aan je belastingaangifte. Dat kan echter alleen als we de rijksregisternummers van zowel het lid als van een ouders waar het lid ten laste is. Rijksregisternummers kunnen ingevuld worden op het profiel van het lid in de groepsadministratie van Scouts en Gidsen Vlaanderen (groepsadmin.scoutsengidsenvlaanderen.be).
+    Zondagavond gaan we gewoon onverminderd door. Om het weekend af te sluiten kan je op ons kippenfestijn genieten van een uitgebreid en gastronomisch aanbod: een halve kip, een kippenbil, vol-au-vent of een vegetarisch stoofpotje, allemaal even lekker. Vergeet dus zeker niet tijdig te bestellen voor het Kippenfestijn.
 - 
-  cardtitle: Mutualiteiten
-  cardtext: >
-    Er zijn verschillende mutualiteiten en
-    de terugbetalingen verschillende per
-    mutualiteit. Via jouw mutualiteit kan je
-    een formulier verkrijgen voor een
-    eenmalige terugbetaling. Dit wordt
-    ondertekend door de groepsleiders en
-    terugbezorgd. Als het kan, neem het dan
-    mee tijdens de opening, dat bespaart ons
-    een hele hoop administratieve rompeslomp
-    doorheen het jaar.
+  cardtitle: Onze magazine
+  cardtext: |
+    Ons jaarlijkse magazine gemist? Geen zorgen, je kan het via deze link digitaal terugvinden.
+    Met dank aan al onze sponsors!
 
 ----
 
