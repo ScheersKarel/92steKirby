@@ -12,7 +12,10 @@
                 // Get the custom URL from the metadata, fallback to the image URL if not set
                 $link = $image->content()->get('URL')->isNotEmpty() ? $image->content()->get('URL') : $image->url();      ?>
                 <a href="<?= $link ?>" target="_blank" class="sponsor-item">
-                  <img src="<?= $image->url() ?>" alt="<?= $image->alt() ?>" class="sponsor-image">
+                  <img src="https://www.baeyaertimbaver.be/wp-content/themes/Baeyaert-Imbaver_v15-0-3/images/Baeyaert-Imbaver-logo.png" class="sponsor-image">
+                </a>
+                <a href="<?= $link ?>" target="_blank" class="sponsor-item">
+                  <img src="https://www.javaroe.be/javaroe.png" class="sponsor-image">
                 </a>
               <?php endforeach; ?>
             </div>
@@ -33,10 +36,12 @@
 }
 
 .sponsor-item {
-    display: block;
     text-align: center;
     opacity: 0.7;
     transition: opacity 0.3s ease-in-out;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .sponsor-item:hover {
