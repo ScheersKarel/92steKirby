@@ -1,7 +1,6 @@
 <?php
 
 return [
-    'debug' => true,
     'uploads' => [
         'size' => 1000, // Maximale bestandsgrootte in MB
         'types' => ['jpg', 'jpeg', 'png', 'gif', 'webp'], // Toegestane bestandstypes
