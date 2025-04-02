@@ -18,6 +18,8 @@
           </div>
         <?php endforeach ?>
       </div>
+      <iframe src="https://docs.google.com/forms/d/e/1FAIpQLScw6qJR4zBWAe2Z57ky2uckB7QJXwCcwbHhGdV_jxltKIvcWw/viewform?embedded=true" width="100%" height="3455" frameborder="0" marginheight="0" marginwidth="0">Laden…</iframe>
+
     </div>
     <img src="<?= $page->bgImg()->toFile()->url() ?>" alt="" class="contentInfo__img">
   </div>
